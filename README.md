@@ -1,15 +1,43 @@
 
-<h1 align="left"> Hi There! I'm <a href="https://wikiazure.com">Dave</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
-<div align="center">
-<a href="https://twitter.com/daverndn" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/daverndn/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a> 
-<a href="https://open.spotify.com/show/0gyMCBEF4uPCKHnpVV2AGF?si=zy64WYaZRRmR3vZqgDSH8Q" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Spotify&color=black&logo=spotify&logoColor=green" alt="Spotify" /></a>
-</div>
-
-<img align="left" width="250px" alt="GIF" src="https://mvp.microsoft.com/Content/Images/mvp-banner-fb.jpg" />
+### Hi there, I'm [Dave](https://linkedin.com/in/daverndn) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube_@wikiazure-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/wikiazure?sub_confirmation=1) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/daverndn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Fdaverndn&screen_name=dave)
+[![Spotify Follow](https://img.shields.io/static/v1?label=&message=Spotify:AzureLate.Show&color=gray&logo=spotify&style=for-the-badge)](https://open.spotify.com/show/0gyMCBEF4uPCKHnpVV2AGF?si=zy64WYaZRRmR3vZqgDSH8Q)
+
+## I'm a Microsoft MVP and a Solutions Architect!
+
+
+
+<img align="left" width="100px" alt="GIF" src="https://mvp.microsoft.com/Content/Images/mvp-banner-fb.jpg" />
+
+
+<br /><br />
+
+### Connect with me:
+[![Linkedin Follow](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/daverndn)
+[![MVP Follow](https://img.shields.io/static/v1?label=&message=MicrosoftMVP&color=blue&logo=microsoft&style=for-the-badge)](https://mvp.microsoft.com/en-us/PublicProfile/5000671?fullName=David%20Rend%C3%B3n)
+
+
+---
+
+### 📚 Recent [writing](https://amazon.com/author/daverendon):
+ - Pro Azure Governance and Security
+ - Microsoft AI MVP Book
+ - Azure Strategy and Implementation Guide, 4th edition
+
+ 
+---
+
+:zap: GitHub Stats
+
+<img align="left" alt="Dave's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daverendon&show_icons=true&hide_border=true&count_private=true" />
+
+
+
+
+<br />
 
 
 <!--
