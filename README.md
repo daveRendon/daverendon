@@ -39,10 +39,9 @@
 
 <br /><br />
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 ---
-
 
 ### 📚 Recent [Blog posts](https://blog.azinsider.net):
 
