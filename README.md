@@ -29,7 +29,7 @@
 
 :zap: GitHub Stats
 
-<img align="left" alt="Dave's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daverendon&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Dave's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daverendon&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=react" />
 
 
 
