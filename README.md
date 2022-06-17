@@ -28,14 +28,17 @@
 
 :zap: GitHub Stats
 
-<img align="left" alt="Dave's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daverendon&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=react" />
-
-
+<img align="left" alt="Dave's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daverendon&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=react" /><br /><br />
 
 
 <br /><br />
+<p>
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daverendon&theme=github_dark" />
+</p>
 
-<br /><br /><br /><br /><br />
+
+<br /><br />
 
 ---
 
