@@ -3,7 +3,7 @@
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@azinsider-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/azinsider?sub_confirmation=1) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/daverndn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Fdaverndn&screen_name=dave)
-[![Spotify Follow](https://img.shields.io/static/v1?label=&message=Spotify:AzureLate.Show&color=gray&logo=spotify&style=for-the-badge)](https://open.spotify.com/show/0gyMCBEF4uPCKHnpVV2AGF?si=zy64WYaZRRmR3vZqgDSH8Q)
+
 
 <img align="left" width="100px" alt="GIF" src="https://mvp.microsoft.com/Content/Images/mvp-banner-fb.jpg" />
 
