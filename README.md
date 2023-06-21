@@ -18,10 +18,10 @@
 ---
 
 ### 📚 Recent [writing](https://amazon.com/author/daverendon):
- - Building Applications with Azure Resource Manager (ARM)
- - Pro Azure Governance and Security
- - Microsoft AI MVP Book
- - Azure Strategy and Implementation Guide, 4th edition
+ - [Building Applications with Azure Resource Manager (ARM)](https://amzn.to/448fO8n)
+ - [Pro Azure Governance and Security](https://amzn.to/3XfsSGR)
+ - [Microsoft AI MVP Book](https://amzn.to/3NbPLX2)
+ - [Azure Strategy and Implementation Guide, 4th edition](https://amzn.to/3pgcAAU)
 
  
 ---
