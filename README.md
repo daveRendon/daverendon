@@ -3,6 +3,9 @@
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@azinsider-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/azinsider?sub_confirmation=1) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/daverndn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Fdaverndn&screen_name=dave)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz1Dfbvqa7aG2YPlnKTwriQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/azinsider)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCz1Dfbvqa7aG2YPlnKTwriQ?label=YouTube%20Subscribers&style=for-the-badge)](https://youtube.com/azinsider)
+
 
 
 <img align="left" width="100px" alt="GIF" src="https://mvp.microsoft.com/Content/Images/mvp-banner-fb.jpg" />
@@ -10,14 +13,14 @@
 
 <br /><br />
 
-### Connect with me:
+### Let's connect!
 [![Linkedin Follow](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/daverndn)
 [![MVP Follow](https://img.shields.io/static/v1?label=&message=MicrosoftMVP&color=blue&logo=microsoft&style=for-the-badge)](https://mvp.microsoft.com/en-us/PublicProfile/5000671?fullName=David%20Rend%C3%B3n)
 
 
 ---
 
-### 📚 Recent [writing](https://amazon.com/author/daverendon):
+### 📚 Recent [books](https://amazon.com/author/daverendon):
  - [Building Applications with Azure Resource Manager (ARM)](https://amzn.to/448fO8n)
  - [Pro Azure Governance and Security](https://amzn.to/3XfsSGR)
  - [Microsoft AI MVP Book](https://amzn.to/3NbPLX2)
