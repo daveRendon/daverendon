@@ -5,12 +5,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/daverndn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Fdaverndn&screen_name=dave)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz1Dfbvqa7aG2YPlnKTwriQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/azinsider)
 
-
-
-
-<img align="left" width="100px" alt="GIF" src="https://mvp.microsoft.com/Content/Images/mvp-banner-fb.jpg" />
-
-
 <br /><br />
 
 ### Let's connect!
