@@ -15,12 +15,12 @@
 ---
 
 ### 📚 Recent [books](https://amazon.com/author/daverendon):
- - [Azure Architecture Explained: A comprehensive guide to building effective cloud solutions](https://amzn.to/4863Ped)
- - [Azure for Decision Makers: The essential guide to Azure for business leaders](https://amzn.to/3EzgiJZ)
- - [Building Applications with Azure Resource Manager (ARM)](https://amzn.to/448fO8n)
- - [Pro Azure Governance and Security](https://amzn.to/3XfsSGR)
- - [Microsoft AI MVP Book](https://amzn.to/3NbPLX2)
- - [Azure Strategy and Implementation Guide, 4th edition](https://amzn.to/3pgcAAU)
+ - 📘[Azure Architecture Explained: A comprehensive guide to building effective cloud solutions](https://amzn.to/4863Ped)
+ - 📘[Azure for Decision Makers: The essential guide to Azure for business leaders](https://amzn.to/3EzgiJZ)
+ - 📘[Building Applications with Azure Resource Manager (ARM)](https://amzn.to/448fO8n)
+ - 📘[Pro Azure Governance and Security](https://amzn.to/3XfsSGR)
+ - 📘[Microsoft AI MVP Book](https://amzn.to/3NbPLX2)
+ - 📘[Azure Strategy and Implementation Guide, 4th edition](https://amzn.to/3pgcAAU)
 
  
 ---
