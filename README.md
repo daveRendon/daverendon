@@ -59,11 +59,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/6" alt="Recent Article 6">
  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/7" alt="Recent Article 7">
-    
- 
-    
-Feel free to explore my work and let's build amazing things together! 🚀
-      
+          
 
 <!--
 **daveRendon/daverendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
