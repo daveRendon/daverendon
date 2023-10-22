@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Dave](https://linkedin.com/in/daverndn) 👋
+### Hi there👋, I'm [Dave](https://linkedin.com/in/daverndn) a Microsoft MVP, author, and blogger with a focus on Azure architecture and cloud solutions.
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@azinsider-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/azinsider?sub_confirmation=1) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/daverndn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Fdaverndn&screen_name=dave)
@@ -25,12 +25,11 @@
  
 ---
 
-:zap: GitHub Stats
+### GitHub Stats
 
-<img align="left" alt="Dave's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daverendon&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=react" /><br /><br />
+![Dave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daverendon&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=react)
 
-
-<br /><br />
+<br />
 <p>
     <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daverendon&theme=github_dark" />
@@ -63,11 +62,7 @@
     
  
     
-      
-      
-      
- ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=daverendon&color=55acb7&style=for-the-badge&logo=Github)
-
+Feel free to explore my work and let's build amazing things together! 🚀
       
 
 <!--
