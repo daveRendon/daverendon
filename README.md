@@ -27,14 +27,10 @@
 
 ### GitHub Stats
 
-![Dave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daverendon&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=react)
-
-<br />
-<p>
-    <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daverendon&theme=github_dark" />
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daverendon&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daverendon&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daverendon&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daverendon&theme=aura)
 
 <br /><br />
 
