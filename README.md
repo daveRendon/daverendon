@@ -38,24 +38,16 @@
 
 ### 📚 Recent [Blog posts](https://blog.azinsider.net):
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/0" alt="Recent Article 0"> 
- 
- 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/1" alt="Recent Article 1"> 
- 
- 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/2" alt="Recent Article 2"> 
- 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/3" alt="Recent Article 3"> 
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/4" alt="Recent Article 4"> 
+<div id="articles"> 
+  <a target="_blank" href="https://blog.azinsider.net"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=0&source=medium" alt="Recent Article 0" style="float:left;width:'300px'; padding: '5px';"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/5" alt="Recent Article 5">
+ <a target="_blank" href="https://blog.azinsider.net/"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=1&source=medium" alt="Recent Article 1" style="float:left;width:'300px'; padding: '5px'"> 
  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/6" alt="Recent Article 6">
- 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daverendon/7" alt="Recent Article 7">
-          
+<a target="_blank" href="https://blog.azinsider.net/"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=2&source=medium" alt="Recent Article 2" style="float:left;width:'300px'; padding: '5px';"> 
+
+<a target="_blank" href="https://blog.azinsider.net/"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=3&source=medium" alt="Recent Article 3" style="float:left;width:'300px'; padding: '5px';"> 
+</div> 
+           
 
 <!--
 **daveRendon/daverendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
