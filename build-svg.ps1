@@ -1,5 +1,5 @@
 $key = $env:WEATHER_API_KEY
-$locationKey = "14-349727_1_AL";
+$location = "Seattle"
 
 $emojis = @{
     1  = "☀️"
@@ -32,22 +32,18 @@ $emojis = @{
     32 = "🥶"
 }
 
-$url = "http://api.openweathermap.org/geo/1.0/direct?q=Seattle&limit=5&appid=$key"
+$url = "https://api.openweathermap.org/data/2.5/weather?q=$location&appid=96ef9dc6a7a0c941aea8f8afbcf0a1ba"
 $r = Invoke-RestMethod $url
 
-$target = $r.DailyForecasts[0]
-$degF = $target.Temperature.Maximum.Value
-$degC = [math]::Round((($degF - 32) / 1.8))
-$icon = $emojis[[int]$target.Day.Icon]
-$psTime = (get-date).year - (get-date "7/1/2008").year
-$todayDay = (get-date).DayOfWeek
+$temp_kelvin = $r.main.temp
+$degC = [math]::Round($temp_kelvin - 273.15)
+$icon = $emojis[[int]$r.weather[0].id]
+$todayDay = (Get-Date).DayOfWeek
 
 $data = Get-Content -Raw ./template.svg
 
-$data = $data.replace("{degF}", $degF)
 $data = $data.replace("{degC}", $degC)
 $data = $data.replace("{weatherEmoji}", $icon)
-$data = $data.replace("{psTime}", $psTime)
 $data = $data.replace("{todayDay}", $todayDay)
 
 $data | Set-Content -Encoding utf8 ./chat.svg
