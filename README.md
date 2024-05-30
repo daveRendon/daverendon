@@ -9,6 +9,8 @@
 
 <br />
 
+[![](./chat.svg)](https://twitter.com/daverndn)
+
 ### Let's connect!
 [![Linkedin Follow](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/daverndn)
 [![MVP Follow](https://img.shields.io/static/v1?label=&message=MicrosoftMVP&color=blue&logo=microsoft&style=for-the-badge)](https://mvp.microsoft.com/en-us/PublicProfile/5000671?fullName=David%20Rend%C3%B3n)
