@@ -9,7 +9,6 @@
 
 <br />
 
-[![](./chat.svg)](https://twitter.com/daverndn)
 
 ### Let's connect!
 [![Linkedin Follow](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/daverndn)
