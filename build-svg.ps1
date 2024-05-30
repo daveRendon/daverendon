@@ -32,7 +32,7 @@ $emojis = @{
     32 = "🥶"
 }
 
-$url = "http://dataservice.accuweather.com/forecasts/v1/daily/1day/$($locationKey)?apikey=$($key)"
+$url = "http://api.openweathermap.org/geo/1.0/direct?q=Seattle&limit=5&appid=$($key)"
 $r = Invoke-RestMethod $url
 
 $target = $r.DailyForecasts[0]
