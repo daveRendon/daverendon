@@ -8,7 +8,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz1Dfbvqa7aG2YPlnKTwriQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/azinsider)
 
 <br />
-
+[![](./chat.svg)](https://twitter.com/daverndn)
 
 ### Let's connect!
 [![Linkedin Follow](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/daverndn)
