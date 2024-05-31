@@ -1,5 +1,5 @@
 $key = $env:WEATHER_API_KEY
-$locationKey = "14-349727_1_AL";
+$locationKey = "351409";
 
 $emojis = @{
     1  = "☀️"
