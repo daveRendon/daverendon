@@ -8,6 +8,8 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz1Dfbvqa7aG2YPlnKTwriQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/azinsider)
 
 <br />
+
+
 [![](./chat.svg)](https://twitter.com/daverndn)
 
 ### Let's connect!
