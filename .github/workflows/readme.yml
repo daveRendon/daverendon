@@ -1,12 +1,13 @@
-name: Update readme
+name: Update readme and Generate Profile Summary Cards
 
 on:
   schedule:
     - cron: "0 4 * * *"
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
-  readme:
+  update_readme_and_generate_summary:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,7 +19,7 @@ jobs:
         shell: pwsh
         run: . ./build-svg.ps1
 
-      - name: Commit changes
+      - name: Commit readme changes
         uses: EndBug/add-and-commit@v4
         with:
           author_name: Dave Rendon
@@ -27,3 +28,18 @@ jobs:
           add: "*.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Profile Summary Cards
+        uses: daverendon/github-profile-summary-cards@release
+        env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
+          GITHUB_TOKEN: ${{ secrets.PAT_1}}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # BRANCH_NAME is optional, default to main, branch name to push cards
+          BRANCH_NAME: "main"
+          # UTC_OFFSET is optional, default to zero
+          UTC_OFFSET: 8
+          # EXCLUDE is an optional comma separated list of languages to exclude, defaults to ""
+          EXCLUDE: ""
+          # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch
+          AUTO_PUSH: true
