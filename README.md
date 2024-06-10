@@ -29,7 +29,7 @@
 
 ### GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daverendon&theme=aura)
+![](http://github-stats-dr.vercel.app/api/cards/profile-details?username=daverendon&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daverendon&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daverendon&theme=aura)
 ![](http://github-stats-dr.vercel.app/api/cards/stats?username=daverendon&theme=aura)
