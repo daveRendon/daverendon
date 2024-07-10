@@ -68,7 +68,7 @@
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze" />
     </rect>
     <text x="0" y="15">
-      I'm an Azure and AI blogger, a 10 year Microsoft MVP,
+      I'm an Azure and AI blogger, a 11 year Microsoft MVP,
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze" />
     </text>
     <rect x="425" y="5" width="10" height="14" class="cursor" visibility="hidden">
