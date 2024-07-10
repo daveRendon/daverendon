@@ -1,5 +1,6 @@
+[![](./chat.svg)](https://twitter.com/daverndn)
 
-### Hi there👋, I'm [Dave](https://linkedin.com/in/daverndn) a Microsoft MVP, author, and blogger with a focus on Azure architecture and cloud solutions.
+### Hi there👋 I'm [Dave](https://linkedin.com/in/daverndn), a Microsoft MVP, author, and blogger who focuses on Azure architecture and cloud solutions.
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@azinsider-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/azinsider?sub_confirmation=1) 
 
@@ -7,7 +8,6 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz1Dfbvqa7aG2YPlnKTwriQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/azinsider)
 
-<br />
 
 ### Let's connect!
 [![Linkedin Follow](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/daverndn)
@@ -29,11 +29,14 @@
 
 ### GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daverendon&theme=aura)
+![](http://github-stats-dr.vercel.app/api/cards/profile-details?username=daverendon&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daverendon&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daverendon&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daverendon&theme=aura)
+![](http://github-stats-dr.vercel.app/api/cards/stats?username=daverendon&theme=aura)
 
+<!---
+![](https://azinsider-github-readme-stats.vercel.app/api?username=daverendon&theme=aura)
+-->
 <br /><br />
 
 ---

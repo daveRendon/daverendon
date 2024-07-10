@@ -1,0 +1,134 @@
+
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background style for each line -->
+  <style>
+    .line-background {
+      fill: black;
+      opacity: 0;
+    }
+    text {
+      fill: #00ff00; /* Green text for terminal look */
+      font-family: "Courier New", Courier, monospace; /* Monospace font for terminal look */
+      font-size: 14;
+      opacity: 0;
+    }
+    .cursor {
+      fill: #00ff00;
+      opacity: 0;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Hi, I'm Dave -->
+  <g transform="translate(10, 20)">
+    <rect width="580" height="20" class="line-background">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" />
+    </rect>
+    <text x="0" y="15">
+      Hi, I'm Dave
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" />
+    </text>
+    <rect x="105" y="5" width="10" height="14" class="cursor" visibility="hidden">
+      <animate attributeName="visibility" from="hidden" to="visible" begin="0.5s" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="visible;hidden" />
+    </rect>
+  </g>
+
+  <!-- Today in Seattle -->
+  <g transform="translate(10, 50)">
+    <rect width="580" height="20" class="line-background">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" />
+    </rect>
+    <text x="0" y="15">
+      Today in Seattle it's supposed to be
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" />
+    </text>
+    <rect x="305" y="5" width="10" height="14" class="cursor" visibility="hidden">
+      <animate attributeName="visibility" from="hidden" to="visible" begin="1s" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="visible;hidden" />
+    </rect>
+  </g>
+
+  <g transform="translate(10, 70)">
+    <rect width="580" height="20" class="line-background">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1s" fill="freeze" />
+    </rect>
+    <text x="0" y="15">
+      86° F (30° C) and ☀️.
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1s" fill="freeze" />
+    </text>
+    <rect x="215" y="5" width="10" height="14" class="cursor" visibility="hidden">
+      <animate attributeName="visibility" from="hidden" to="visible" begin="1.5s" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="visible;hidden" />
+    </rect>
+  </g>
+
+  <!-- I'm an Azure and AI blogger -->
+  <g transform="translate(10, 100)">
+    <rect width="580" height="20" class="line-background">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze" />
+    </rect>
+    <text x="0" y="15">
+      I'm an Azure and AI blogger, a 10 year Microsoft MVP,
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze" />
+    </text>
+    <rect x="425" y="5" width="10" height="14" class="cursor" visibility="hidden">
+      <animate attributeName="visibility" from="hidden" to="visible" begin="2s" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="visible;hidden" />
+    </rect>
+  </g>
+
+  <g transform="translate(10, 120)">
+    <rect width="580" height="20" class="line-background">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2s" fill="freeze" />
+    </rect>
+    <text x="0" y="15">
+      and a Microsoft Certified Trainer.
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2s" fill="freeze" />
+    </text>
+    <rect x="235" y="5" width="10" height="14" class="cursor" visibility="hidden">
+      <animate attributeName="visibility" from="hidden" to="visible" begin="2.5s" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="visible;hidden" />
+    </rect>
+  </g>
+
+  <!-- Twitter link -->
+  <g transform="translate(10, 150)">
+    <rect width="580" height="20" class="line-background">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.5s" fill="freeze" />
+    </rect>
+    <text x="0" y="15">
+      You can find me on Twitter at https://twitter.com/daverndn
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.5s" fill="freeze" />
+    </text>
+    <rect x="415" y="5" width="10" height="14" class="cursor" visibility="hidden">
+      <animate attributeName="visibility" from="hidden" to="visible" begin="3s" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="visible;hidden" />
+    </rect>
+  </g>
+
+  <!-- Thanks for stopping by -->
+  <g transform="translate(10, 180)">
+    <rect width="580" height="20" class="line-background">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3s" fill="freeze" />
+    </rect>
+    <text x="0" y="15">
+      Thanks for stopping by
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3s" fill="freeze" />
+    </text>
+    <rect x="215" y="5" width="10" height="14" class="cursor" visibility="hidden">
+      <animate attributeName="visibility" from="hidden" to="visible" begin="3.5s" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="visible;hidden" />
+    </rect>
+  </g>
+
+  <!-- Have a great day -->
+  <g transform="translate(10, 210)">
+    <rect width="580" height="20" class="line-background">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.5s" fill="freeze" />
+    </rect>
+    <text x="0" y="15">
+      Have a great Wednesday! <tspan class="emoji">👋</tspan>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.5s" fill="freeze" />
+    </text>
+    <rect x="270" y="5" width="10" height="14" class="cursor" visibility="hidden">
+      <animate attributeName="visibility" from="hidden" to="visible" begin="4s" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="visible;hidden" />
+    </rect>
+  </g>
+</svg>
+
