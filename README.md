@@ -43,10 +43,6 @@
 
 ### 📚 Recent [Blog posts](https://blog.azinsider.net):
 
-<div class='sk-ww-medium-publication-feed' data-embed-id='73691'></div><script src='https://widgets.sociablekit.com/medium-publication-feed/widget.js' defer></script>
-
-<iframe src='https://widgets.sociablekit.com/medium-publication-feed/iframe/73691' frameborder='0' width='100%' height='1000'></iframe>
-
 <div id="articles"> 
   <a target="_blank" href="https://blog.azinsider.net"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=0&source=medium" alt="Recent Article 0" style="float:left;width:'300px'; padding: '5px';"> 
 
