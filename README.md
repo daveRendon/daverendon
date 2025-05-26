@@ -41,7 +41,7 @@
 
 ---
 
-## 📝 Latest [posts]https://blog.azinsider.net)
+## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
 <!-- BLOG_POSTS_END -->
