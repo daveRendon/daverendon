@@ -9,14 +9,14 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz1Dfbvqa7aG2YPlnKTwriQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/azinsider)
 
 
-### Let's connect!
+## 🚀 Let's connect!
 [![Linkedin Follow](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/daverndn)
 [![MVP Follow](https://img.shields.io/static/v1?label=&message=MicrosoftMVP&color=blue&logo=microsoft&style=for-the-badge)](https://mvp.microsoft.com/en-us/PublicProfile/5000671?fullName=David%20Rend%C3%B3n)
 
 
 ---
 
-### 📚 Recent [books](https://amazon.com/author/daverendon):
+## 📚 Recent [books](https://amazon.com/author/daverendon):
  - 📘[Azure Architecture Explained: A comprehensive guide to building effective cloud solutions](https://amzn.to/4863Ped)
  - 📘[Azure for Decision Makers: The essential guide to Azure for business leaders](https://amzn.to/3EzgiJZ)
  - 📘[Building Applications with Azure Resource Manager (ARM)](https://amzn.to/448fO8n)
@@ -27,7 +27,7 @@
  
 ---
 
-### GitHub Stats
+## 📈 GitHub Stats
 
 ![](http://github-stats-dr.vercel.app/api/cards/profile-details?username=daverendon&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daverendon&theme=aura)
@@ -45,7 +45,6 @@
 
 <!-- BLOG_POSTS_START -->
 <!-- BLOG_POSTS_END -->
-
 
 <!--
 **daveRendon/daverendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
