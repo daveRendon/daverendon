@@ -46,6 +46,13 @@
 -->
 <br /><br />
 
+---
+
+## 📝 Latest [posts](https://blog.azinsider.net)
+
+<!-- BLOG_POSTS_START -->
+<!-- BLOG_POSTS_END -->
+           
 
 <!--
 **daveRendon/daverendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
