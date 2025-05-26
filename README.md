@@ -9,14 +9,14 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz1Dfbvqa7aG2YPlnKTwriQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/azinsider)
 
 
-### Let's connect!
+## 🚀 Let's connect!
 [![Linkedin Follow](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/daverndn)
 [![MVP Follow](https://img.shields.io/static/v1?label=&message=MicrosoftMVP&color=blue&logo=microsoft&style=for-the-badge)](https://mvp.microsoft.com/en-us/PublicProfile/5000671?fullName=David%20Rend%C3%B3n)
 
 
 ---
 
-### 📚 Recent [books](https://amazon.com/author/daverendon):
+## 📚 Recent [books](https://amazon.com/author/daverendon):
  - 📘[Azure Architecture Explained: A comprehensive guide to building effective cloud solutions](https://amzn.to/4863Ped)
  - 📘[Azure for Decision Makers: The essential guide to Azure for business leaders](https://amzn.to/3EzgiJZ)
  - 📘[Building Applications with Azure Resource Manager (ARM)](https://amzn.to/448fO8n)
@@ -27,7 +27,7 @@
  
 ---
 
-### GitHub Stats
+## 📈 GitHub Stats
 
 ![](http://github-stats-dr.vercel.app/api/cards/profile-details?username=daverendon&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daverendon&theme=aura)
@@ -41,10 +41,7 @@
 
 ---
 
-### 📚 Recent [Blog posts](https://blog.azinsider.net)
-
-
-## 📝 Latest posts
+## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
 - [Recap ‘Inside Azure Innovations with Mark Russinovich’ at Microsoft Build 2025](https://blog.azinsider.net/recap-inside-azure-innovations-with-mark-russinovich-at-microsoft-build-2025-842f5d90f3ab?source=user_profile_page---------0-------------7f23df591f29----------------------)
@@ -58,7 +55,7 @@
   <a target="_blank" href="https://blog.azinsider.net"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=0&source=medium" alt="Recent Article 0" style="float:left;width:'300px'; padding: '5px';"> 
 
  <a target="_blank" href="https://blog.azinsider.net/"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=1&source=medium" alt="Recent Article 1" style="float:left;width:'300px'; padding: '5px'"> 
-
+ 
 <a target="_blank" href="https://blog.azinsider.net/"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=2&source=medium" alt="Recent Article 2" style="float:left;width:'300px'; padding: '5px';"> 
 
 <a target="_blank" href="https://blog.azinsider.net/"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=3&source=medium" alt="Recent Article 3" style="float:left;width:'300px'; padding: '5px';"> 
