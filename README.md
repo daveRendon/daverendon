@@ -1,6 +1,6 @@
 [![](./chat.svg)](https://twitter.com/daverndn)
 
-### Hi there👋 I'm [Dave](https://linkedin.com/in/daverndn), a Microsoft MVP, author, and blogger who focuses on Azure architecture and cloud solutions.
+## 👋 Hi there! I'm [Dave](https://linkedin.com/in/daverndn), a Microsoft MVP, author, and blogger who focuses on Azure architecture and cloud solutions.
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@azinsider-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/azinsider?sub_confirmation=1) 
 
@@ -24,6 +24,13 @@
  - 📘[Microsoft AI MVP Book](https://amzn.to/3NbPLX2)
  - 📘[Azure Strategy and Implementation Guide, 4th edition](https://amzn.to/3pgcAAU)
 
+---
+
+## 📝 Latest [posts](https://blog.azinsider.net)
+
+<!-- BLOG_POSTS_START -->
+<!-- BLOG_POSTS_END -->
+           
  
 ---
 
@@ -39,13 +46,6 @@
 -->
 <br /><br />
 
----
-
-## 📝 Latest [posts](https://blog.azinsider.net)
-
-<!-- BLOG_POSTS_START -->
-<!-- BLOG_POSTS_END -->
-           
 
 <!--
 **daveRendon/daverendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
