@@ -43,6 +43,11 @@
 
 ### 📚 Recent [Blog posts](https://blog.azinsider.net):
 
+## 📝 Latest posts
+
+<!-- BLOG_POSTS_START -->
+<!-- BLOG_POSTS_END -->
+
 <div id="articles"> 
   <a target="_blank" href="https://blog.azinsider.net"><img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@daverendon&index=0&source=medium" alt="Recent Article 0" style="float:left;width:'300px'; padding: '5px';"> 
 
