@@ -29,11 +29,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Recap ‘Inside Azure Innovations with Mark Russinovich’ at Microsoft Build 2025](https://blog.azinsider.net/recap-inside-azure-innovations-with-mark-russinovich-at-microsoft-build-2025-842f5d90f3ab?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Microsoft Build 2025: Major Azure & AI Foundry announcements](https://blog.azinsider.net/microsoft-build-2025-major-azure-ai-foundry-announcements-77120be8d17b?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Building a ReactJS App with Azure OpenAI.](https://blog.azinsider.net/building-a-reactjs-app-with-azure-openai-dc64e032c8e5?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Bicep Language: Connecting Azure API Management to Azure OpenAI via Application Gateway.](https://blog.azinsider.net/bicep-language-connecting-azure-api-management-to-azure-openai-via-application-gateway-e092784b41c8?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Deploying AKS Control Plane Alert Rules with Bicep Language.](https://blog.azinsider.net/deploying-aks-control-plane-alert-rules-with-bicep-1242341e13d9?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Run DeepSeek R1 on Azure using AZD](https://blog.azinsider.net/run-deepseek-r1-on-azure-using-azd-9ebce277bae2?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Azure Intersite Connectivity with AZD and Bicep: A Step-by-Step Deep Dive](https://blog.azinsider.net/azure-intersite-connectivity-with-azd-and-bicep-5a683aae30ef?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Recap ‘Inside Azure Innovations with Mark Russinovich’ at Microsoft Build 2025](https://blog.azinsider.net/recap-inside-azure-innovations-with-mark-russinovich-at-microsoft-build-2025-842f5d90f3ab?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Microsoft Build 2025: Major Azure & AI Foundry announcements](https://blog.azinsider.net/microsoft-build-2025-major-azure-ai-foundry-announcements-77120be8d17b?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Building a ReactJS App with Azure OpenAI.](https://blog.azinsider.net/building-a-reactjs-app-with-azure-openai-dc64e032c8e5?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
