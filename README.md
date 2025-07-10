@@ -29,11 +29,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Run DeepSeek R1 on Azure using AZD](https://blog.azinsider.net/run-deepseek-r1-on-azure-using-azd-9ebce277bae2?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Azure Intersite Connectivity with AZD and Bicep: A Step-by-Step Deep Dive](https://blog.azinsider.net/azure-intersite-connectivity-with-azd-and-bicep-5a683aae30ef?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Recap ‘Inside Azure Innovations with Mark Russinovich’ at Microsoft Build 2025](https://blog.azinsider.net/recap-inside-azure-innovations-with-mark-russinovich-at-microsoft-build-2025-842f5d90f3ab?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Microsoft Build 2025: Major Azure & AI Foundry announcements](https://blog.azinsider.net/microsoft-build-2025-major-azure-ai-foundry-announcements-77120be8d17b?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Building a ReactJS App with Azure OpenAI.](https://blog.azinsider.net/building-a-reactjs-app-with-azure-openai-dc64e032c8e5?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Azure Web App Baseline Deployment with AZD: Secure, Scalable, and Ready in Minutes](https://blog.azinsider.net/azure-web-app-baseline-deployment-with-azd-498f631f7a09?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲: 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁’𝘀 𝗣𝗵𝗶‑4 𝗠𝗶𝗻𝗶…](https://blog.azinsider.net/microsoft-phi-4-mini-flash-reasoning-edge-ai-model-cb8a40ecd4b9?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [A Practical Guide to Securing Azure Storage with Service Endpoints & Private Access using AZD](https://blog.azinsider.net/securing-azure-storage-with-service-endpoints-private-access-using-azd-e0cff075be82?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Deploying Azure Firewall with AZD: A Practical Guide to Securing Cloud Networks](https://blog.azinsider.net/deploying-azure-firewall-with-azd-456281e24de5?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Run DeepSeek R1 on Azure using AZD](https://blog.azinsider.net/run-deepseek-r1-on-azure-using-azd-9ebce277bae2?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
