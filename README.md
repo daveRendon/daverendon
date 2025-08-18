@@ -29,11 +29,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Automating Microsoft Sentinel Deployments with Azure Developer CLI: A Complete Technical Guide](https://blog.azinsider.net/deploy-microsoft-sentinel-with-azd-84a100338f1a?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Deploying Azure Private Endpoints for Overlapping Address Spaces with AZD.](https://blog.azinsider.net/deploying-azure-private-endpoints-for-overlapping-address-spaces-with-azd-2bd3bdbdc390?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Azure Web App Baseline Deployment with AZD: Secure, Scalable, and Ready in Minutes](https://blog.azinsider.net/azure-web-app-baseline-deployment-with-azd-498f631f7a09?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲: 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁’𝘀 𝗣𝗵𝗶‑4 𝗠𝗶𝗻𝗶…](https://blog.azinsider.net/microsoft-phi-4-mini-flash-reasoning-edge-ai-model-cb8a40ecd4b9?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [A Practical Guide to Securing Azure Storage with Service Endpoints & Private Access using AZD](https://blog.azinsider.net/securing-azure-storage-with-service-endpoints-private-access-using-azd-e0cff075be82?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [A Practical Guide to Retrieval Augmented Generation (RAG) with Azure OpenAI Service](https://blog.azinsider.net/a-practical-guide-to-retrieval-augmented-generation-rag-with-azure-openai-service-1de8b9f8c471?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Automating Microsoft Sentinel Deployments with Azure Developer CLI: A Complete Technical Guide](https://blog.azinsider.net/deploy-microsoft-sentinel-with-azd-84a100338f1a?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Deploying Azure Private Endpoints for Overlapping Address Spaces with AZD.](https://blog.azinsider.net/deploying-azure-private-endpoints-for-overlapping-address-spaces-with-azd-2bd3bdbdc390?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Azure Web App Baseline Deployment with AZD: Secure, Scalable, and Ready in Minutes](https://blog.azinsider.net/azure-web-app-baseline-deployment-with-azd-498f631f7a09?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲: 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁’𝘀 𝗣𝗵𝗶‑4 𝗠𝗶𝗻𝗶…](https://blog.azinsider.net/microsoft-phi-4-mini-flash-reasoning-edge-ai-model-cb8a40ecd4b9?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
