@@ -16,11 +16,6 @@ Requirements:
     - selenium
     - webdriver-manager (to automatically install ChromeDriver)
     - Google Chrome available on PATH (GitHub runners come with it)
-
-Note: This script provides a basic example.  Depending on changes to
-the SociableKIT login page, you may need to adjust the element
-selectors or add waits. Always test locally before relying on
-automation.
 """
 
 import os
@@ -32,7 +27,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
-
 
 def main() -> int:
     email = os.environ.get("SOCIALKIT_EMAIL")
@@ -46,7 +40,11 @@ def main() -> int:
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
+    # Use Service to specify the driver path; this avoids a positional-argument clash with `options`
+    from selenium.webdriver.chrome.service import Service
+    driver_path = ChromeDriverManager().install()
+    service = Service(driver_path)
+    driver = webdriver.Chrome(service=service, options=chrome_options)
     driver.set_page_load_timeout(60)
 
     try:
@@ -54,40 +52,31 @@ def main() -> int:
         widget_url = "https://www.sociablekit.com/app/users/widgets/update_embed/73691/#basic"
         driver.get(widget_url)
 
-        # Wait for either the login form or the main page to load
+        # Wait for the login form to appear and fill in credentials if needed
         try:
-            # Check if login email field is present
             email_field = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='email']"))
             )
-            # Fill in credentials
             email_field.send_keys(email)
             password_field = driver.find_element(By.CSS_SELECTOR, "input[type='password']")
             password_field.send_keys(password)
-            # Submit the login form
             submit_btn = driver.find_element(By.XPATH, "//button[contains(., 'Sign in')]")
             submit_btn.click()
-            # Wait for redirect back to the widget page
             WebDriverWait(driver, 30).until(
                 EC.url_contains("update_embed/73691")
             )
         except Exception:
-            # If login elements are not found, assume already logged in
+            # If login fields aren’t found, assume we’re already signed in
             pass
 
-        # After authentication, attempt to find and click the "Request sync" button.
-        # The SociableKIT interface sometimes nests content within iframes, so we
-        # search recursively through all frames for the button.
-
+        # Define a recursive function to search for the "Request sync" button in all frames
         def find_and_click_request_button() -> bool:
-            """Recursively search all frames for the Request sync button and click it."""
             try:
                 btn = driver.find_element(By.XPATH, "//button[contains(., 'Request sync')]")
                 btn.click()
                 return True
             except Exception:
                 pass
-            # Explore child iframes
             frames = driver.find_elements(By.TAG_NAME, "iframe")
             for frame in frames:
                 driver.switch_to.frame(frame)
@@ -98,26 +87,26 @@ def main() -> int:
 
         print("🔎 Looking for sync button…")
         if not find_and_click_request_button():
-            # Save the current page HTML for debugging
             with open("page_dump.html", "w", encoding="utf-8") as f:
                 f.write(driver.page_source)
             print("❌ Could not find the 'Request sync' button anywhere.")
             return 1
 
-        # Wait for a confirmation element that indicates the sync request was queued
+        # Wait for confirmation that the sync request was queued
         try:
             WebDriverWait(driver, 30).until(
-                EC.presence_of_element_located((By.XPATH, "//*[contains(., 'Sync request') and contains(., 'received')]"))
+                EC.presence_of_element_located(
+                    (By.XPATH, "//*[contains(., 'Sync request') and contains(., 'received')]")
+                )
             )
         except Exception:
-            # Even if the confirmation is not found, the click may have succeeded
+            # Even if the confirmation isn’t seen, the click may have succeeded
             pass
         print("✅ Sync request submitted successfully.")
 
     finally:
         driver.quit()
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(main())
