@@ -46,7 +46,7 @@ def main() -> int:
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-
+    from selenium.webdriver.chrome.service import Service
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     driver.set_page_load_timeout(60)
 
