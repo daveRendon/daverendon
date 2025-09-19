@@ -4,18 +4,10 @@ Automate a manual sync request on the SociableKIT website.
 
 This script uses Selenium WebDriver to open the SociableKIT widget page,
 authenticate using credentials provided via environment variables and
-click the "Request sync" button. It is intended to be run in a headless
-environment such as a GitHub Actions runner.  You must set the
-SOCIALKIT_EMAIL and SOCIALKIT_PASSWORD secrets in your repository so
-that the script can log in.
+click the "Request sync" control.  Set the SOCIALKIT_EMAIL and
+SOCIALKIT_PASSWORD secrets in your repository.
 
-Usage:
-    python sync_sociablekit.py
-
-Requirements:
-    - selenium
-    - webdriver-manager (to automatically install ChromeDriver)
-    - Google Chrome available on PATH (GitHub runners come with it)
+Requirements: selenium, webdriver-manager, and Chrome on the runner.
 """
 
 import os
@@ -35,12 +27,10 @@ def main() -> int:
         print("Environment variables SOCIALKIT_EMAIL and SOCIALKIT_PASSWORD must be set.")
         return 1
 
-    # Configure headless Chrome
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    # Use Service to specify the driver path; this avoids a positional-argument clash with `options`
     from selenium.webdriver.chrome.service import Service
     driver_path = ChromeDriverManager().install()
     service = Service(driver_path)
@@ -48,11 +38,10 @@ def main() -> int:
     driver.set_page_load_timeout(60)
 
     try:
-        # Navigate to the widget page (this redirects to login if not authenticated)
         widget_url = "https://www.sociablekit.com/app/users/widgets/update_embed/73691/#basic"
         driver.get(widget_url)
 
-        # Wait for the login form to appear and fill in credentials if needed
+        # Login if the form appears
         try:
             email_field = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='email']"))
@@ -66,14 +55,23 @@ def main() -> int:
                 EC.url_contains("update_embed/73691")
             )
         except Exception:
-            # If login fields aren’t found, assume we’re already signed in
             pass
 
-        # Define a recursive function to search for the "Request sync" button in all frames
+        # Wait for asynchronous content to load
+        time.sleep(15)
+        print("🔎 Looking for sync button…")
+
         def find_and_click_request_button() -> bool:
+            """
+            Recursively search for any element containing 'Request sync' and click it.
+            """
             try:
-                btn = driver.find_element(By.XPATH, "//button[contains(., 'Request sync')]")
-                btn.click()
+                elem = driver.find_element(
+                    By.XPATH,
+                    "//*[contains(translate(normalize-space(text()), "
+                    "'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'), 'request sync')]",
+                )
+                driver.execute_script("arguments[0].click();", elem)
                 return True
             except Exception:
                 pass
@@ -85,14 +83,13 @@ def main() -> int:
                 driver.switch_to.parent_frame()
             return False
 
-        print("🔎 Looking for sync button…")
         if not find_and_click_request_button():
             with open("page_dump.html", "w", encoding="utf-8") as f:
                 f.write(driver.page_source)
             print("❌ Could not find the 'Request sync' button anywhere.")
             return 1
 
-        # Wait for confirmation that the sync request was queued
+        # Optional wait for confirmation
         try:
             WebDriverWait(driver, 30).until(
                 EC.presence_of_element_located(
@@ -100,10 +97,8 @@ def main() -> int:
                 )
             )
         except Exception:
-            # Even if the confirmation isn’t seen, the click may have succeeded
             pass
         print("✅ Sync request submitted successfully.")
-
     finally:
         driver.quit()
     return 0
