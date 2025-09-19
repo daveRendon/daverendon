@@ -1,0 +1,36 @@
+name: "Run SociableKIT Sync with Playwright"
+
+on:
+  schedule:
+    - cron: "0 0 */3 * *"  # Every 3 days at midnight UTC
+  workflow_dispatch:
+      {}
+
+jobs:
+  sync_widget:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (Playwright)
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          playwright install --with-deps
+
+      - name: Run sync script using Playwright
+        run: |
+          python  .github/scripts/sync_sociablekit_playwright.py
+        env:
+          SOCIALKIT_EMAIL: ${{ secrets.SOCIALKIT_EMAIL }}
+          SOCIALKIT_PASSWORD: ${{ secrets.SOCIALKIT_PASSWORD }}
+
+# This workflow uses Playwright instead of Selenium to interact with the SociableKIT
+# site. Playwright provides more robust handling of dynamic content and nested
+# frames, which may improve reliability on GitHub-hosted runners.
