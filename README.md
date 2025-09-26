@@ -29,11 +29,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Build Production-Ready Multi-Agent AI on Azure AI Foundry](https://blog.azinsider.net/build-production-ready-multi-agent-ai-on-azure-ai-foundry-c5811a86391a?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Simplifying Azure Resource Management with Microsoft AI Shell](https://blog.azinsider.net/simplifying-azure-resource-management-with-microsoft-ai-shell-dd78c0bf6a06?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Copilot in Azure: The One Tool Cloud Engineers Can’t Ignore in 2025](https://blog.azinsider.net/copilot-in-azure-the-one-tool-cloud-engineers-cant-ignore-in-2025-d0447dcb3380?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Deploying Network-Hardened Web Apps on Azure with AZD & Bicep](https://blog.azinsider.net/deploying-network-hardened-web-apps-on-azure-with-azd-bicep-ac57591ad807?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Build a Data‑Driven AI Agent with Azure AI Agent Service (Python)](https://blog.azinsider.net/build-a-data-driven-ai-agent-with-azure-ai-agent-service-python-ee1077b2a2fc?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Microsoft AI Tour Chicago 2025: Field Notes from the Hub](https://blog.azinsider.net/microsoft-ai-tour-chicago-2025-field-notes-from-the-hub-57cba34f0ae2?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Build Production-Ready Multi-Agent AI on Azure AI Foundry](https://blog.azinsider.net/build-production-ready-multi-agent-ai-on-azure-ai-foundry-c5811a86391a?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Simplifying Azure Resource Management with Microsoft AI Shell](https://blog.azinsider.net/simplifying-azure-resource-management-with-microsoft-ai-shell-dd78c0bf6a06?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Copilot in Azure: The One Tool Cloud Engineers Can’t Ignore in 2025](https://blog.azinsider.net/copilot-in-azure-the-one-tool-cloud-engineers-cant-ignore-in-2025-d0447dcb3380?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Deploying Network-Hardened Web Apps on Azure with AZD & Bicep](https://blog.azinsider.net/deploying-network-hardened-web-apps-on-azure-with-azd-bicep-ac57591ad807?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
