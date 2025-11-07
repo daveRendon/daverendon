@@ -29,11 +29,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [From Zero to AI Agent on Azure: ChatAgent + AzureAIAgentClient (Python)](https://blog.azinsider.net/from-zero-to-ai-agent-on-azure-chatagent-azureaiagentclient-python-b30250e7e0c7?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Inside Microsoft’s MAI-Image-1: The Photorealistic AI Model Powering Next-Gen Image Generation](https://blog.azinsider.net/inside-microsofts-mai-image-1-90cabe8a8b7a?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Microsoft Agent Framework: The Unified, Open-Source Engine for Production-Ready AI Agents](https://blog.azinsider.net/microsoft-agent-framework-077413e6d39f?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Building a Multi-Agent Support Triage System with AZD and Azure AI Foundry](https://blog.azinsider.net/building-a-multi-agent-support-triage-system-with-azd-and-azure-ai-foundry-b424cfa146a2?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Microsoft AI Tour Chicago 2025: Field Notes from the Hub](https://blog.azinsider.net/microsoft-ai-tour-chicago-2025-field-notes-from-the-hub-57cba34f0ae2?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Scan, Detect, Defend: MCP Security with Proximity + NOVA](https://blog.azinsider.net/scan-detect-defend-mcp-security-with-proximity-nova-8e5000a4a816?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [From Zero to AI Agent on Azure: ChatAgent + AzureAIAgentClient (Python)](https://blog.azinsider.net/from-zero-to-ai-agent-on-azure-chatagent-azureaiagentclient-python-b30250e7e0c7?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Inside Microsoft’s MAI-Image-1: The Photorealistic AI Model Powering Next-Gen Image Generation](https://blog.azinsider.net/inside-microsofts-mai-image-1-90cabe8a8b7a?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Microsoft Agent Framework: The Unified, Open-Source Engine for Production-Ready AI Agents](https://blog.azinsider.net/microsoft-agent-framework-077413e6d39f?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Building a Multi-Agent Support Triage System with AZD and Azure AI Foundry](https://blog.azinsider.net/building-a-multi-agent-support-triage-system-with-azd-and-azure-ai-foundry-b424cfa146a2?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
