@@ -29,11 +29,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Skytap on Azure Storage Architecture and Performance Tuning for IBM Power LPARs (Deciding Optimal…](https://blog.azinsider.net/skytap-on-azure-storage-architecture-720556307702?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Scan, Detect, Defend: MCP Security with Proximity + NOVA](https://blog.azinsider.net/scan-detect-defend-mcp-security-with-proximity-nova-8e5000a4a816?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [From Zero to AI Agent on Azure: ChatAgent + AzureAIAgentClient (Python)](https://blog.azinsider.net/from-zero-to-ai-agent-on-azure-chatagent-azureaiagentclient-python-b30250e7e0c7?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Inside Microsoft’s MAI-Image-1: The Photorealistic AI Model Powering Next-Gen Image Generation](https://blog.azinsider.net/inside-microsofts-mai-image-1-90cabe8a8b7a?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Microsoft Agent Framework: The Unified, Open-Source Engine for Production-Ready AI Agents](https://blog.azinsider.net/microsoft-agent-framework-077413e6d39f?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [AKS Gets an AI Sidekick: a Deep Dive into the Agentic CLI.](https://blog.azinsider.net/aks-gets-an-ai-sidekick-a-deep-dive-into-the-agentic-cli-b4a9970a7ddd?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Skytap on Azure Storage Architecture and Performance Tuning for IBM Power LPARs (Deciding Optimal…](https://blog.azinsider.net/skytap-on-azure-storage-architecture-720556307702?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Scan, Detect, Defend: MCP Security with Proximity + NOVA](https://blog.azinsider.net/scan-detect-defend-mcp-security-with-proximity-nova-8e5000a4a816?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [From Zero to AI Agent on Azure: ChatAgent + AzureAIAgentClient (Python)](https://blog.azinsider.net/from-zero-to-ai-agent-on-azure-chatagent-azureaiagentclient-python-b30250e7e0c7?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Inside Microsoft’s MAI-Image-1: The Photorealistic AI Model Powering Next-Gen Image Generation](https://blog.azinsider.net/inside-microsofts-mai-image-1-90cabe8a8b7a?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
