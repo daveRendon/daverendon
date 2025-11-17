@@ -17,7 +17,7 @@
 ---
 
 ## 📚 Recent [books](https://amazon.com/author/daverendon):
- - 📘[Microsoft Copilot in Azure: AI-powered cloud automation and optimization](https://bit.ly/4o16JaS](https://www.amazon.com/Microsoft-Copilot-Azure-AI-powered-optimization-ebook/dp/B0FC6331QD/))
+ - 📘[Microsoft Copilot in Azure: AI-powered cloud automation and optimization](https://www.amazon.com/Microsoft-Copilot-Azure-AI-powered-optimization-ebook/dp/B0FC6331QD/)
  - 📘[Azure Architecture Explained: A comprehensive guide to building effective cloud solutions](https://amzn.to/4863Ped)
  - 📘[Azure for Decision Makers: The essential guide to Azure for business leaders](https://amzn.to/3EzgiJZ)
  - 📘[Building Applications with Azure Resource Manager (ARM)](https://amzn.to/448fO8n)
