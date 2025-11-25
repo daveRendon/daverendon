@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Making Sense of Microsoft Ignite 2025 for Azure and AI Architects.](https://blog.azinsider.net/making-sense-of-microsoft-ignite-2025-for-azure-and-ai-architects-7e725af73225?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [From Raw Data to ML Models: Real-Time Analytics and Data Science with Microsoft Fabric.](https://blog.azinsider.net/from-raw-data-to-ml-models-real-time-analytics-and-data-science-with-microsoft-fabric-5bc51a911a2a?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Inside Azure’s AI Superfactory: How “Fairwater” Turns Every Gigawatt Into Useful Tokens.](https://blog.azinsider.net/inside-azures-ai-superfactory-how-fairwater-turns-every-gigawatt-into-useful-tokens-413bf8470d7e?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [AKS Gets an AI Sidekick: a Deep Dive into the Agentic CLI.](https://blog.azinsider.net/aks-gets-an-ai-sidekick-a-deep-dive-into-the-agentic-cli-b4a9970a7ddd?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Skytap on Azure Storage Architecture and Performance Tuning for IBM Power LPARs (Deciding Optimal…](https://blog.azinsider.net/skytap-on-azure-storage-architecture-720556307702?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Inside Azure Innovations: How Microsoft Is Re-Wiring the Cloud for AI](https://blog.azinsider.net/inside-azure-innovations-how-microsoft-is-re-wiring-the-cloud-for-ai-edd4c5324b25?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Inside Azure’s Cloud-Native Stack for Azure & AI Engineers: Lessons from Mark Russinovich’s “Cloud…](https://blog.azinsider.net/inside-azures-cloud-native-stack-for-azure-ai-engineers-lessons-from-mark-russinovich-s-cloud-dbd7b8354ede?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Making Sense of Microsoft Ignite 2025 for Azure and AI Architects.](https://blog.azinsider.net/making-sense-of-microsoft-ignite-2025-for-azure-and-ai-architects-7e725af73225?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [From Raw Data to ML Models: Real-Time Analytics and Data Science with Microsoft Fabric.](https://blog.azinsider.net/from-raw-data-to-ml-models-real-time-analytics-and-data-science-with-microsoft-fabric-5bc51a911a2a?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Inside Azure’s AI Superfactory: How “Fairwater” Turns Every Gigawatt Into Useful Tokens.](https://blog.azinsider.net/inside-azures-ai-superfactory-how-fairwater-turns-every-gigawatt-into-useful-tokens-413bf8470d7e?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
