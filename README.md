@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Inside Azure Innovations: How Microsoft Is Re-Wiring the Cloud for AI](https://blog.azinsider.net/inside-azure-innovations-how-microsoft-is-re-wiring-the-cloud-for-ai-edd4c5324b25?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Inside Azure’s Cloud-Native Stack for Azure & AI Engineers: Lessons from Mark Russinovich’s “Cloud…](https://blog.azinsider.net/inside-azures-cloud-native-stack-for-azure-ai-engineers-lessons-from-mark-russinovich-s-cloud-dbd7b8354ede?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Making Sense of Microsoft Ignite 2025 for Azure and AI Architects.](https://blog.azinsider.net/making-sense-of-microsoft-ignite-2025-for-azure-and-ai-architects-7e725af73225?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [From Raw Data to ML Models: Real-Time Analytics and Data Science with Microsoft Fabric.](https://blog.azinsider.net/from-raw-data-to-ml-models-real-time-analytics-and-data-science-with-microsoft-fabric-5bc51a911a2a?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Inside Azure’s AI Superfactory: How “Fairwater” Turns Every Gigawatt Into Useful Tokens.](https://blog.azinsider.net/inside-azures-ai-superfactory-how-fairwater-turns-every-gigawatt-into-useful-tokens-413bf8470d7e?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Azure’s New What-If for CLI and PowerShell: Dry-Runs, Bicep Export, and AVM in One Reliable…](https://blog.azinsider.net/azures-new-what-if-for-cli-and-powershell-dry-runs-bicep-export-and-avm-in-one-reliable-44b33accfe4f?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Inside Azure’s Cloud-Native Stack for Azure & AI Engineers: Lessons from Mark Russinovich’s “Cloud…](https://blog.azinsider.net/inside-azures-cloud-native-stack-for-azure-ai-engineers-lessons-from-mark-russinovich-s-cloud-dbd7b8354ede?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Making Sense of Microsoft Ignite 2025 for Azure and AI Architects.](https://blog.azinsider.net/making-sense-of-microsoft-ignite-2025-for-azure-and-ai-architects-7e725af73225?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [From Raw Data to ML Models: Real-Time Analytics and Data Science with Microsoft Fabric.](https://blog.azinsider.net/from-raw-data-to-ml-models-real-time-analytics-and-data-science-with-microsoft-fabric-5bc51a911a2a?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Inside Azure Innovations: How Microsoft Is Re-Wiring the Cloud for AI](https://blog.azinsider.net/inside-azure-innovations-how-microsoft-is-re-wiring-the-cloud-for-ai-edd4c5324b25?source=user_profile_page---------1-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
