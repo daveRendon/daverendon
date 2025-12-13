@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Azure’s New What-If for CLI and PowerShell: Dry-Runs, Bicep Export, and AVM in One Reliable…](https://blog.azinsider.net/azures-new-what-if-for-cli-and-powershell-dry-runs-bicep-export-and-avm-in-one-reliable-44b33accfe4f?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Inside Azure Innovations: How Microsoft Is Re-Wiring the Cloud for AI](https://blog.azinsider.net/inside-azure-innovations-how-microsoft-is-re-wiring-the-cloud-for-ai-edd4c5324b25?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Inside Azure’s Cloud-Native Stack for Azure & AI Engineers: Lessons from Mark Russinovich’s “Cloud…](https://blog.azinsider.net/inside-azures-cloud-native-stack-for-azure-ai-engineers-lessons-from-mark-russinovich-s-cloud-dbd7b8354ede?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Making Sense of Microsoft Ignite 2025 for Azure and AI Architects.](https://blog.azinsider.net/making-sense-of-microsoft-ignite-2025-for-azure-and-ai-architects-7e725af73225?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [From Raw Data to ML Models: Real-Time Analytics and Data Science with Microsoft Fabric.](https://blog.azinsider.net/from-raw-data-to-ml-models-real-time-analytics-and-data-science-with-microsoft-fabric-5bc51a911a2a?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [How Microsoft Foundry Makes AI Agents Unstoppable with Fine-Tuning and RFT.](https://blog.azinsider.net/how-microsoft-foundry-makes-ai-agents-unstoppable-with-fine-tuning-and-rft-5abeeb55f662?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Making Smarter Model Choices on Microsoft Foundry.](https://blog.azinsider.net/making-smarter-model-choices-on-microsoft-foundry-848ff5760dab?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Architecting Agentic AI on Microsoft Foundry: Tools Catalog, Content Understanding, and Multimodal…](https://blog.azinsider.net/architecting-agentic-ai-on-microsoft-foundry-tools-catalog-content-understanding-and-multimodal-bd40d4fde554?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Next-Level RAG on Azure: Building Knowledge Bases with Azure AI Search and Foundry.](https://blog.azinsider.net/next-level-rag-on-azure-building-knowledge-bases-with-azure-ai-search-and-foundry-6d88d60e7202?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Shipping Multi-Agent Systems on Azure with GitHub and Microsoft Foundry.](https://blog.azinsider.net/shipping-multi-agent-systems-on-azure-with-github-and-microsoft-foundry-d2d26d546087?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
