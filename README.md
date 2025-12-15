@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [How Microsoft Foundry Makes AI Agents Unstoppable with Fine-Tuning and RFT.](https://blog.azinsider.net/how-microsoft-foundry-makes-ai-agents-unstoppable-with-fine-tuning-and-rft-5abeeb55f662?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Making Smarter Model Choices on Microsoft Foundry.](https://blog.azinsider.net/making-smarter-model-choices-on-microsoft-foundry-848ff5760dab?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Architecting Agentic AI on Microsoft Foundry: Tools Catalog, Content Understanding, and Multimodal…](https://blog.azinsider.net/architecting-agentic-ai-on-microsoft-foundry-tools-catalog-content-understanding-and-multimodal-bd40d4fde554?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Next-Level RAG on Azure: Building Knowledge Bases with Azure AI Search and Foundry.](https://blog.azinsider.net/next-level-rag-on-azure-building-knowledge-bases-with-azure-ai-search-and-foundry-6d88d60e7202?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Shipping Multi-Agent Systems on Azure with GitHub and Microsoft Foundry.](https://blog.azinsider.net/shipping-multi-agent-systems-on-azure-with-github-and-microsoft-foundry-d2d26d546087?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Research You Can Actually Run: A Deep Dive into Microsoft Foundry Labs.](https://blog.azinsider.net/research-you-can-actually-run-a-deep-dive-into-microsoft-foundry-labs-18414eb3c5c9?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Microsoft Foundry — AI Agent Service Deep Dive.](https://blog.azinsider.net/microsoft-foundry-ai-agent-service-deep-dive-7002a0b532a5?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [How Microsoft Foundry Makes AI Agents Unstoppable with Fine-Tuning and RFT.](https://blog.azinsider.net/how-microsoft-foundry-makes-ai-agents-unstoppable-with-fine-tuning-and-rft-5abeeb55f662?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Making Smarter Model Choices on Microsoft Foundry.](https://blog.azinsider.net/making-smarter-model-choices-on-microsoft-foundry-848ff5760dab?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Architecting Agentic AI on Microsoft Foundry: Tools Catalog, Content Understanding, and Multimodal…](https://blog.azinsider.net/architecting-agentic-ai-on-microsoft-foundry-tools-catalog-content-understanding-and-multimodal-bd40d4fde554?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
