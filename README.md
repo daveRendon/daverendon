@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Research You Can Actually Run: A Deep Dive into Microsoft Foundry Labs.](https://blog.azinsider.net/research-you-can-actually-run-a-deep-dive-into-microsoft-foundry-labs-18414eb3c5c9?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Microsoft Foundry — AI Agent Service Deep Dive.](https://blog.azinsider.net/microsoft-foundry-ai-agent-service-deep-dive-7002a0b532a5?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [How Microsoft Foundry Makes AI Agents Unstoppable with Fine-Tuning and RFT.](https://blog.azinsider.net/how-microsoft-foundry-makes-ai-agents-unstoppable-with-fine-tuning-and-rft-5abeeb55f662?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Making Smarter Model Choices on Microsoft Foundry.](https://blog.azinsider.net/making-smarter-model-choices-on-microsoft-foundry-848ff5760dab?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Architecting Agentic AI on Microsoft Foundry: Tools Catalog, Content Understanding, and Multimodal…](https://blog.azinsider.net/architecting-agentic-ai-on-microsoft-foundry-tools-catalog-content-understanding-and-multimodal-bd40d4fde554?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [The Production Agent Stack: Microsoft Agent Framework + Hosted Agents in Foundry.](https://blog.azinsider.net/the-production-agent-stack-microsoft-agent-framework-hosted-agents-in-foundry-1ee9c7dcc9dc?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Enterprise RAG on PostgreSQL: Inside Nasdaq BoardVantage’s “Board Assistant” and AI Meeting Minutes](https://blog.azinsider.net/enterprise-rag-on-postgresql-inside-nasdaq-boardvantages-board-assistant-and-ai-meeting-minutes-2a8d69b51621?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [You Can’t Debug What You Can’t See: AI Observability with OpenTelemetry + Microsoft Foundry.](https://blog.azinsider.net/you-cant-debug-what-you-can-t-see-ai-observability-with-opentelemetry-microsoft-foundry-f90407b90e17?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Fast, Private, and Cheap: Running Open-Source LLM Inference on Azure at Scale.](https://blog.azinsider.net/fast-private-and-cheap-running-open-source-llm-inference-on-azure-at-scale-0586447bcbb4?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Kubernetes Ops, Simplified: Headlamp + Inspektor Gadget + Drasi in One Practical Toolchain.](https://blog.azinsider.net/kubernetes-ops-simplified-headlamp-inspektor-gadget-drasi-in-one-practical-toolchain-ed237b8def6b?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
