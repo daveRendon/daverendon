@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Reasoning Models on Azure: The Production Stack for Enterprise AI Agents.](https://blog.azinsider.net/reasoning-models-on-azure-the-production-stack-for-enterprise-ai-agents-834fb0cfa317?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [The AI Supercluster Stack on Azure: Compute, Network, Storage, and the Software That Glues It…](https://blog.azinsider.net/the-ai-supercluster-stack-on-azure-compute-network-storage-and-the-software-that-glues-it-560c52e4c0f4?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [From Prompt Injection to Tool Hijacking: A Defense-in-Depth Blueprint for AI Agents on Azure.](https://blog.azinsider.net/from-prompt-injection-to-tool-hijacking-a-defense-in-depth-blueprint-for-ai-agents-on-azure-9d538f2e7296?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Stop Rebuilding Connectors: MCP + Foundry Tools as the New Integration Layer for AI Agents.](https://blog.azinsider.net/stop-rebuilding-connectors-mcp-foundry-tools-as-the-new-integration-layer-for-ai-agents-7803ad6ebaaf?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [The Production Agent Stack: Microsoft Agent Framework + Hosted Agents in Foundry.](https://blog.azinsider.net/the-production-agent-stack-microsoft-agent-framework-hosted-agents-in-foundry-1ee9c7dcc9dc?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Azure Storage in the AI Era: The New Data Plane for Training, Inference, and Agents.](https://blog.azinsider.net/azure-storage-in-the-ai-era-the-new-data-plane-for-training-inference-and-agents-0e0add0a3e95?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Deploying Local AI on Windows with Confidence: Windows ML and Foundry Local.](https://blog.azinsider.net/deploying-local-ai-on-windows-with-confidence-windows-ml-and-foundry-local-9bcf56e5317d?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Azure Managed Redis for AI Agents: Semantic Caching, Vector Knowledge Stores, and Memory at…](https://blog.azinsider.net/azure-managed-redis-for-ai-agents-semantic-caching-vector-knowledge-stores-and-memory-at-20d380c68047?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Building Intelligent AI Agents on PostgreSQL: Inside Azure HorizonDB.](https://blog.azinsider.net/building-intelligent-ai-agents-on-postgresql-inside-azure-horizondb-479049702841?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Running AI on Azure Storage: The Hidden Performance Layer Behind Training, Inference, and Agents.](https://blog.azinsider.net/running-ai-on-azure-storage-the-hidden-performance-layer-behind-training-inference-and-agents-384b4f0b18c8?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
