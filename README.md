@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Azure Storage in the AI Era: The New Data Plane for Training, Inference, and Agents.](https://blog.azinsider.net/azure-storage-in-the-ai-era-the-new-data-plane-for-training-inference-and-agents-0e0add0a3e95?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Deploying Local AI on Windows with Confidence: Windows ML and Foundry Local.](https://blog.azinsider.net/deploying-local-ai-on-windows-with-confidence-windows-ml-and-foundry-local-9bcf56e5317d?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Azure Managed Redis for AI Agents: Semantic Caching, Vector Knowledge Stores, and Memory at…](https://blog.azinsider.net/azure-managed-redis-for-ai-agents-semantic-caching-vector-knowledge-stores-and-memory-at-20d380c68047?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Building Intelligent AI Agents on PostgreSQL: Inside Azure HorizonDB.](https://blog.azinsider.net/building-intelligent-ai-agents-on-postgresql-inside-azure-horizondb-479049702841?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Running AI on Azure Storage: The Hidden Performance Layer Behind Training, Inference, and Agents.](https://blog.azinsider.net/running-ai-on-azure-storage-the-hidden-performance-layer-behind-training-inference-and-agents-384b4f0b18c8?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Azure AI Supercomputing Deep Dive: Compute, InfiniBand, and Storage That Actually Scales.](https://blog.azinsider.net/azure-ai-supercomputing-deep-dive-compute-infiniband-and-storage-that-actually-scales-90cb56dd19fd?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Managed Instance on Azure App Service: Migrate Legacy .NET Apps to PaaS Without the Rewrite.](https://blog.azinsider.net/managed-instance-on-azure-app-service-migrate-legacy-net-apps-to-paas-without-the-rewrite-d4ddc570b225?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Azure Storage in the AI Era: The New Data Plane for Training, Inference, and Agents.](https://blog.azinsider.net/azure-storage-in-the-ai-era-the-new-data-plane-for-training-inference-and-agents-0e0add0a3e95?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Deploying Local AI on Windows with Confidence: Windows ML and Foundry Local.](https://blog.azinsider.net/deploying-local-ai-on-windows-with-confidence-windows-ml-and-foundry-local-9bcf56e5317d?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Azure Managed Redis for AI Agents: Semantic Caching, Vector Knowledge Stores, and Memory at…](https://blog.azinsider.net/azure-managed-redis-for-ai-agents-semantic-caching-vector-knowledge-stores-and-memory-at-20d380c68047?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
