@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Azure AI Supercomputing Deep Dive: Compute, InfiniBand, and Storage That Actually Scales.](https://blog.azinsider.net/azure-ai-supercomputing-deep-dive-compute-infiniband-and-storage-that-actually-scales-90cb56dd19fd?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Managed Instance on Azure App Service: Migrate Legacy .NET Apps to PaaS Without the Rewrite.](https://blog.azinsider.net/managed-instance-on-azure-app-service-migrate-legacy-net-apps-to-paas-without-the-rewrite-d4ddc570b225?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Azure Storage in the AI Era: The New Data Plane for Training, Inference, and Agents.](https://blog.azinsider.net/azure-storage-in-the-ai-era-the-new-data-plane-for-training-inference-and-agents-0e0add0a3e95?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Deploying Local AI on Windows with Confidence: Windows ML and Foundry Local.](https://blog.azinsider.net/deploying-local-ai-on-windows-with-confidence-windows-ml-and-foundry-local-9bcf56e5317d?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Azure Managed Redis for AI Agents: Semantic Caching, Vector Knowledge Stores, and Memory at…](https://blog.azinsider.net/azure-managed-redis-for-ai-agents-semantic-caching-vector-knowledge-stores-and-memory-at-20d380c68047?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Build Scalable AI Apps on Azure SQL Hyperscale.](https://blog.azinsider.net/build-scalable-ai-apps-on-azure-sql-hyperscale-26b351d10bfc?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [NLWeb Deep Dive: The Open Protocol That Makes Your Website Agent-Ready.](https://blog.azinsider.net/nlweb-deep-dive-the-open-protocol-that-makes-your-website-agent-ready-1e3eb6f717a7?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Secure Your Foundry Agents End-to-End.](https://blog.azinsider.net/secure-your-foundry-agents-end-to-end-11b54613925c?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Azure Arc Deep Dive: The Control Plane for Hybrid + Multi-Cloud at Scale.](https://blog.azinsider.net/azure-arc-deep-dive-the-control-plane-for-hybrid-multi-cloud-at-scale-df9184097f33?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Build and Customize Local AI Into Enterprise Apps with Windows AI APIs.](https://blog.azinsider.net/build-and-customize-local-ai-into-enterprise-apps-with-windows-ai-apis-b927a2d457bc?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
