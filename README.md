@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Microsoft Foundry on Windows Deep Dive: Secure Local AI and Agents with Windows ML, Windows AI…](https://blog.azinsider.net/microsoft-foundry-on-windows-deep-dive-secure-local-ai-and-agents-with-windows-ml-windows-ai-b6d75dabd635?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Lessons Learned Shipping AI Agents at Scale: Replit, Wolters Kluwer, and AT&T.](https://blog.azinsider.net/lessons-learned-shipping-ai-agents-at-scale-replit-wolters-kluwer-and-at-t-1acc54226e6e?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Secure AI Agents with Microsoft Entra Agent ID: Identity, Governance, and Conditional Access at…](https://blog.azinsider.net/secure-ai-agents-with-microsoft-entra-agent-id-identity-governance-and-conditional-access-at-c1c23cd4ac8a?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Build Production AI Agents with Microsoft Foundry: Model Routing, Safety, and Real Customer…](https://blog.azinsider.net/build-production-ai-agents-with-microsoft-foundry-model-routing-safety-and-real-customer-0a344021525f?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Build Secure Azure Apps with Defender for Cloud and Azure Network Security.](https://blog.azinsider.net/build-secure-azure-apps-with-defender-for-cloud-and-azure-network-security-d27294acb9b6?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Secure AI Agents by Design: From Prompt Injection to Enterprise Governance.](https://blog.azinsider.net/secure-ai-agents-by-design-from-prompt-injection-to-enterprise-governance-5e8743568145?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Leading with trust: building and deploying compliant AI agents in a regulated world.](https://blog.azinsider.net/leading-with-trust-building-and-deploying-compliant-ai-agents-in-a-regulated-world-59ebba1659db?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Takeaways from Microsoft’s Safe, Secure & Responsible AI Forum in NYC.](https://blog.azinsider.net/takeaways-from-microsofts-safe-secure-responsible-ai-forum-in-nyc-bbc8ced51ef6?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Microsoft Foundry on Windows Deep Dive: Secure Local AI and Agents with Windows ML, Windows AI…](https://blog.azinsider.net/microsoft-foundry-on-windows-deep-dive-secure-local-ai-and-agents-with-windows-ml-windows-ai-b6d75dabd635?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Lessons Learned Shipping AI Agents at Scale: Replit, Wolters Kluwer, and AT&T.](https://blog.azinsider.net/lessons-learned-shipping-ai-agents-at-scale-replit-wolters-kluwer-and-at-t-1acc54226e6e?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
