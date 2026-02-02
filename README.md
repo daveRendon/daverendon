@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Secure AI Agents by Design: From Prompt Injection to Enterprise Governance.](https://blog.azinsider.net/secure-ai-agents-by-design-from-prompt-injection-to-enterprise-governance-5e8743568145?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Leading with trust: building and deploying compliant AI agents in a regulated world.](https://blog.azinsider.net/leading-with-trust-building-and-deploying-compliant-ai-agents-in-a-regulated-world-59ebba1659db?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Takeaways from Microsoft’s Safe, Secure & Responsible AI Forum in NYC.](https://blog.azinsider.net/takeaways-from-microsofts-safe-secure-responsible-ai-forum-in-nyc-bbc8ced51ef6?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Microsoft Foundry on Windows Deep Dive: Secure Local AI and Agents with Windows ML, Windows AI…](https://blog.azinsider.net/microsoft-foundry-on-windows-deep-dive-secure-local-ai-and-agents-with-windows-ml-windows-ai-b6d75dabd635?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Lessons Learned Shipping AI Agents at Scale: Replit, Wolters Kluwer, and AT&T.](https://blog.azinsider.net/lessons-learned-shipping-ai-agents-at-scale-replit-wolters-kluwer-and-at-t-1acc54226e6e?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Agentic Integration on Azure Logic Apps: Agent Loop, MCP, and Foundry Control Plane.](https://blog.azinsider.net/agentic-integration-on-azure-logic-apps-agent-loop-mcp-and-foundry-control-plane-1c96a707b18a?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [AI Agents at Scale: The Real Playbook for Security, Testing, and Adoption](https://blog.azinsider.net/ai-agents-at-scale-the-real-playbook-for-security-testing-and-adoption-39c312795a0b?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [OpenShift Virtualization on ARO: Run VMs and Containers Together.](https://blog.azinsider.net/openshift-virtualization-on-aro-run-vms-and-containers-together-46f7395bdae2?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Building Cloud Native Infrastructure at Azure Scale.](https://blog.azinsider.net/building-cloud-native-infrastructure-at-azure-scale-ad42934c3d06?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Massive Scale Infrastructure on Azure: What’s new across Networking, Compute, and Storage.](https://blog.azinsider.net/massive-scale-infrastructure-on-azure-whats-new-across-networking-compute-and-storage-75388cbbe75c?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
