@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Agentic Integration on Azure Logic Apps: Agent Loop, MCP, and Foundry Control Plane.](https://blog.azinsider.net/agentic-integration-on-azure-logic-apps-agent-loop-mcp-and-foundry-control-plane-1c96a707b18a?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [AI Agents at Scale: The Real Playbook for Security, Testing, and Adoption](https://blog.azinsider.net/ai-agents-at-scale-the-real-playbook-for-security-testing-and-adoption-39c312795a0b?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [OpenShift Virtualization on ARO: Run VMs and Containers Together.](https://blog.azinsider.net/openshift-virtualization-on-aro-run-vms-and-containers-together-46f7395bdae2?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Building Cloud Native Infrastructure at Azure Scale.](https://blog.azinsider.net/building-cloud-native-infrastructure-at-azure-scale-ad42934c3d06?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Massive Scale Infrastructure on Azure: What’s new across Networking, Compute, and Storage.](https://blog.azinsider.net/massive-scale-infrastructure-on-azure-whats-new-across-networking-compute-and-storage-75388cbbe75c?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [From POC to Fleet Management: Building Multi-Agent Architectures at Scale with Microsoft Foundry…](https://blog.azinsider.net/from-poc-to-fleet-management-building-multi-agent-architectures-at-scale-with-microsoft-foundry-a1e96cd70ee6?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Building AI Apps and Agents with the Full Azure Stack: A Deep Dive into Microsoft Foundry, Agents](https://blog.azinsider.net/building-ai-apps-and-agents-with-the-full-azure-stack-a-deep-dive-into-microsoft-foundry-agents-ee1bbb9ff18b?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Azure’s New Resiliency Platform Top to Bottom.](https://blog.azinsider.net/azures-new-resiliency-platform-top-to-bottom-821dd12838b9?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [How Microsoft Is Merging Copilot Studio and Foundry Into a Unified Agentic Platform: A Technical…](https://blog.azinsider.net/how-microsoft-is-merging-copilot-studio-and-foundry-into-a-unified-agentic-platform-a-technical-5989115ffb38?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Azure Resiliency Explained: From Setup to Recovery](https://blog.azinsider.net/azure-resiliency-explained-from-setup-to-recovery-5e9dd6f0acbe?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
