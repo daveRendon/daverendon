@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [From POC to Fleet Management: Building Multi-Agent Architectures at Scale with Microsoft Foundry…](https://blog.azinsider.net/from-poc-to-fleet-management-building-multi-agent-architectures-at-scale-with-microsoft-foundry-a1e96cd70ee6?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Building AI Apps and Agents with the Full Azure Stack: A Deep Dive into Microsoft Foundry, Agents](https://blog.azinsider.net/building-ai-apps-and-agents-with-the-full-azure-stack-a-deep-dive-into-microsoft-foundry-agents-ee1bbb9ff18b?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Azure’s New Resiliency Platform Top to Bottom.](https://blog.azinsider.net/azures-new-resiliency-platform-top-to-bottom-821dd12838b9?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [How Microsoft Is Merging Copilot Studio and Foundry Into a Unified Agentic Platform: A Technical…](https://blog.azinsider.net/how-microsoft-is-merging-copilot-studio-and-foundry-into-a-unified-agentic-platform-a-technical-5989115ffb38?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Azure Resiliency Explained: From Setup to Recovery](https://blog.azinsider.net/azure-resiliency-explained-from-setup-to-recovery-5e9dd6f0acbe?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [From Red-Teaming to Accessible Code: The Full Architecture Behind AI Agents That Leave No One…](https://blog.azinsider.net/from-red-teaming-to-accessible-code-the-full-architecture-behind-ai-agents-that-leave-no-one-51977811cb3d?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Securing the Agentic AI Era: A Deep Dive into Microsoft’s End-to-End Security Architecture for…](https://blog.azinsider.net/securing-the-agentic-ai-era-a-deep-dive-into-microsofts-end-to-end-security-architecture-for-40cca51fa921?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [From 1 Million Agents in 90 Days to 1.3](https://blog.azinsider.net/from-1-million-agents-in-90-days-to-1-3-54e270651bcf?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Beyond Models: What No One Tells You About Scaling AI Agents in the Enterprise.](https://blog.azinsider.net/beyond-models-what-no-one-tells-you-about-scaling-ai-agents-in-the-enterprise-cefc30caa048?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Azure Monitor in the Age of Agentic AI: How Microsoft Is Rewriting the Rules of Cloud…](https://blog.azinsider.net/azure-monitor-in-the-age-of-agentic-ai-how-microsoft-is-rewriting-the-rules-of-cloud-8463dfb91827?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
