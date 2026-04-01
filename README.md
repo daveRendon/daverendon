@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [From Red-Teaming to Accessible Code: The Full Architecture Behind AI Agents That Leave No One…](https://blog.azinsider.net/from-red-teaming-to-accessible-code-the-full-architecture-behind-ai-agents-that-leave-no-one-51977811cb3d?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Securing the Agentic AI Era: A Deep Dive into Microsoft’s End-to-End Security Architecture for…](https://blog.azinsider.net/securing-the-agentic-ai-era-a-deep-dive-into-microsofts-end-to-end-security-architecture-for-40cca51fa921?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [From 1 Million Agents in 90 Days to 1.3](https://blog.azinsider.net/from-1-million-agents-in-90-days-to-1-3-54e270651bcf?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Beyond Models: What No One Tells You About Scaling AI Agents in the Enterprise.](https://blog.azinsider.net/beyond-models-what-no-one-tells-you-about-scaling-ai-agents-in-the-enterprise-cefc30caa048?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Azure Monitor in the Age of Agentic AI: How Microsoft Is Rewriting the Rules of Cloud…](https://blog.azinsider.net/azure-monitor-in-the-age-of-agentic-ai-how-microsoft-is-rewriting-the-rules-of-cloud-8463dfb91827?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [How Microsoft Is Securing AI Agents Across Identity, Data, Threats, and Compliance: A Complete…](https://blog.azinsider.net/how-microsoft-is-securing-ai-agents-across-identity-data-threats-and-compliance-a-complete-0378d1b5f0cd?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [How Telcos Are Becoming AI-Native: A Deep Dive into Microsoft’s Frontier Transformation for…](https://blog.azinsider.net/how-telcos-are-becoming-ai-native-a-deep-dive-into-microsofts-frontier-transformation-for-99756d587da2?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [AI Agents Are Already Transforming Nonprofits: A Technical Deep Dive into Microsoft’s Agentic…](https://blog.azinsider.net/ai-agents-are-already-transforming-nonprofits-a-technical-deep-dive-into-microsofts-agentic-439c2053f207?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [From Red-Teaming to Accessible Code: The Full Architecture Behind AI Agents That Leave No One…](https://blog.azinsider.net/from-red-teaming-to-accessible-code-the-full-architecture-behind-ai-agents-that-leave-no-one-51977811cb3d?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Securing the Agentic AI Era: A Deep Dive into Microsoft’s End-to-End Security Architecture for…](https://blog.azinsider.net/securing-the-agentic-ai-era-a-deep-dive-into-microsofts-end-to-end-security-architecture-for-40cca51fa921?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
