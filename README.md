@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [How Microsoft Is Securing AI Agents Across Identity, Data, Threats, and Compliance: A Complete…](https://blog.azinsider.net/how-microsoft-is-securing-ai-agents-across-identity-data-threats-and-compliance-a-complete-0378d1b5f0cd?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [How Telcos Are Becoming AI-Native: A Deep Dive into Microsoft’s Frontier Transformation for…](https://blog.azinsider.net/how-telcos-are-becoming-ai-native-a-deep-dive-into-microsofts-frontier-transformation-for-99756d587da2?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [AI Agents Are Already Transforming Nonprofits: A Technical Deep Dive into Microsoft’s Agentic…](https://blog.azinsider.net/ai-agents-are-already-transforming-nonprofits-a-technical-deep-dive-into-microsofts-agentic-439c2053f207?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [From Red-Teaming to Accessible Code: The Full Architecture Behind AI Agents That Leave No One…](https://blog.azinsider.net/from-red-teaming-to-accessible-code-the-full-architecture-behind-ai-agents-that-leave-no-one-51977811cb3d?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Securing the Agentic AI Era: A Deep Dive into Microsoft’s End-to-End Security Architecture for…](https://blog.azinsider.net/securing-the-agentic-ai-era-a-deep-dive-into-microsofts-end-to-end-security-architecture-for-40cca51fa921?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Azure SQL Managed Instance Next-Gen General Purpose: 5x Database Capacity, 2x Throughput, and Zero…](https://blog.azinsider.net/azure-sql-managed-instance-next-gen-general-purpose-5x-database-capacity-2x-throughput-and-zero-1ceb6802e4b0?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [How Microsoft’s Agentic AI Is Rewriting the Cloud Migration Playbook: A Deep Dive into the Tools…](https://blog.azinsider.net/how-microsofts-agentic-ai-is-rewriting-the-cloud-migration-playbook-a-deep-dive-into-the-tools-349282eb5c13?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [The VMware Admin’s Complete Playbook: Migrating to Azure with Confidence Using Azure Migrate, IaaS…](https://blog.azinsider.net/the-vmware-admins-complete-playbook-migrating-to-azure-with-confidence-using-azure-migrate-iaas-bee25552656c?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Securing AI Agents at Scale: Microsoft’s New End-to-End Security Architecture.](https://blog.azinsider.net/securing-ai-agents-at-scale-microsofts-new-end-to-end-security-architecture-603e3ffefe02?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Windows 11 as an Agentic OS: MCP, Hotpatch, and Agent Workspace Architecture.](https://blog.azinsider.net/windows-11-as-an-agentic-os-mcp-hotpatch-and-agent-workspace-architecture-5eb3cbfb906a?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
