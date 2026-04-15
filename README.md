@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Azure SQL Managed Instance Next-Gen General Purpose: 5x Database Capacity, 2x Throughput, and Zero…](https://blog.azinsider.net/azure-sql-managed-instance-next-gen-general-purpose-5x-database-capacity-2x-throughput-and-zero-1ceb6802e4b0?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [How Microsoft’s Agentic AI Is Rewriting the Cloud Migration Playbook: A Deep Dive into the Tools…](https://blog.azinsider.net/how-microsofts-agentic-ai-is-rewriting-the-cloud-migration-playbook-a-deep-dive-into-the-tools-349282eb5c13?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [The VMware Admin’s Complete Playbook: Migrating to Azure with Confidence Using Azure Migrate, IaaS…](https://blog.azinsider.net/the-vmware-admins-complete-playbook-migrating-to-azure-with-confidence-using-azure-migrate-iaas-bee25552656c?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Securing AI Agents at Scale: Microsoft’s New End-to-End Security Architecture.](https://blog.azinsider.net/securing-ai-agents-at-scale-microsofts-new-end-to-end-security-architecture-603e3ffefe02?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Windows 11 as an Agentic OS: MCP, Hotpatch, and Agent Workspace Architecture.](https://blog.azinsider.net/windows-11-as-an-agentic-os-mcp-hotpatch-and-agent-workspace-architecture-5eb3cbfb906a?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Agentic Learning Architecture: How Microsoft Engineered AI Skills Navigator With Accessibility as a…](https://blog.azinsider.net/agentic-learning-architecture-how-microsoft-engineered-ai-skills-navigator-with-accessibility-as-a-8f5236476cc9?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Multi-Agent Orchestration in Industrial AI: How ABB and Krones Architect Autonomous Operations on…](https://blog.azinsider.net/multi-agent-orchestration-in-industrial-ai-how-abb-and-krones-architect-autonomous-operations-on-e3e75247a2d7?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [From Azure Migrate to AKS in Hours: A Deep Dive into Agentic App Modernization with GitHub Copilot…](https://blog.azinsider.net/from-azure-migrate-to-aks-in-hours-a-deep-dive-into-agentic-app-modernization-with-github-copilot-c3806f94eddf?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [From 5 Million Lines of VB6 to Azure in 14 Months: Inside Microsoft’s Agentic Migration Revolution.](https://blog.azinsider.net/from-5-million-lines-of-vb6-to-azure-in-14-months-inside-microsofts-agentic-migration-revolution-18095f7d6ba8?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Building Enterprise AI at Scale: Architecture Patterns, Agent Orchestration, and RAG…](https://blog.azinsider.net/building-enterprise-ai-at-scale-architecture-patterns-agent-orchestration-and-rag-9baafa929d83?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
