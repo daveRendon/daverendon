@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Agentic Learning Architecture: How Microsoft Engineered AI Skills Navigator With Accessibility as a…](https://blog.azinsider.net/agentic-learning-architecture-how-microsoft-engineered-ai-skills-navigator-with-accessibility-as-a-8f5236476cc9?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Multi-Agent Orchestration in Industrial AI: How ABB and Krones Architect Autonomous Operations on…](https://blog.azinsider.net/multi-agent-orchestration-in-industrial-ai-how-abb-and-krones-architect-autonomous-operations-on-e3e75247a2d7?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [From Azure Migrate to AKS in Hours: A Deep Dive into Agentic App Modernization with GitHub Copilot…](https://blog.azinsider.net/from-azure-migrate-to-aks-in-hours-a-deep-dive-into-agentic-app-modernization-with-github-copilot-c3806f94eddf?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [From 5 Million Lines of VB6 to Azure in 14 Months: Inside Microsoft’s Agentic Migration Revolution.](https://blog.azinsider.net/from-5-million-lines-of-vb6-to-azure-in-14-months-inside-microsofts-agentic-migration-revolution-18095f7d6ba8?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Building Enterprise AI at Scale: Architecture Patterns, Agent Orchestration, and RAG…](https://blog.azinsider.net/building-enterprise-ai-at-scale-architecture-patterns-agent-orchestration-and-rag-9baafa929d83?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Reinforcement Fine-Tuning on Microsoft Foundry, April 2026: o4-mini Global Training, GPT-4.1](https://blog.azinsider.net/reinforcement-fine-tuning-on-microsoft-foundry-april-2026-o4-mini-global-training-gpt-4-1-963ce5db0d09?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [The Frontier Finance Playbook: A Deep Dive into Microsoft’s AI and Agent Stack for Finance Teams.](https://blog.azinsider.net/the-frontier-finance-playbook-a-deep-dive-into-microsofts-ai-and-agent-stack-for-finance-teams-2e36aa7833ca?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Microsoft OneLake: The Unified Data Lake That Eliminates ETL, and Powers Your AI Agents.](https://blog.azinsider.net/microsoft-onelake-the-unified-data-lake-that-eliminates-etl-and-powers-your-ai-agents-a985d32d9939?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Breaking the Million-Token Barrier: How Azure ND GB300 v6 Achieves 1.1](https://blog.azinsider.net/breaking-the-million-token-barrier-how-azure-nd-gb300-v6-achieves-1-1-8ff35c412677?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Inside the Windows Agent Platform: How Microsoft Turned the OS Into a Secure Runtime for 1.3](https://blog.azinsider.net/inside-the-windows-agent-platform-how-microsoft-turned-the-os-into-a-secure-runtime-for-1-3-a980ac1d58b0?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
