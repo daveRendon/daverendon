@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Reinforcement Fine-Tuning on Microsoft Foundry, April 2026: o4-mini Global Training, GPT-4.1](https://blog.azinsider.net/reinforcement-fine-tuning-on-microsoft-foundry-april-2026-o4-mini-global-training-gpt-4-1-963ce5db0d09?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [The Frontier Finance Playbook: A Deep Dive into Microsoft’s AI and Agent Stack for Finance Teams.](https://blog.azinsider.net/the-frontier-finance-playbook-a-deep-dive-into-microsofts-ai-and-agent-stack-for-finance-teams-2e36aa7833ca?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Microsoft OneLake: The Unified Data Lake That Eliminates ETL, and Powers Your AI Agents.](https://blog.azinsider.net/microsoft-onelake-the-unified-data-lake-that-eliminates-etl-and-powers-your-ai-agents-a985d32d9939?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Breaking the Million-Token Barrier: How Azure ND GB300 v6 Achieves 1.1](https://blog.azinsider.net/breaking-the-million-token-barrier-how-azure-nd-gb300-v6-achieves-1-1-8ff35c412677?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Inside the Windows Agent Platform: How Microsoft Turned the OS Into a Secure Runtime for 1.3](https://blog.azinsider.net/inside-the-windows-agent-platform-how-microsoft-turned-the-os-into-a-secure-runtime-for-1-3-a980ac1d58b0?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Compliance as Code for the Agentic Era: Inside Microsoft’s AI Trust Architecture.](https://blog.azinsider.net/compliance-as-code-for-the-agentic-era-inside-microsofts-ai-trust-architecture-d7a1a893ce18?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [From Zero to Agent Store: The Complete Technical Playbook for Microsoft 365 Copilot Partners in…](https://blog.azinsider.net/from-zero-to-agent-store-the-complete-technical-playbook-for-microsoft-365-copilot-partners-in-98c54c4dd020?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [How Veeam Built Planet-Scale Semantic Search on Azure Cosmos DB.](https://blog.azinsider.net/how-veeam-built-planet-scale-semantic-search-on-azure-cosmos-db-e44917db8b1d?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Reinforcement Fine-Tuning on Microsoft Foundry, April 2026: o4-mini Global Training, GPT-4.1](https://blog.azinsider.net/reinforcement-fine-tuning-on-microsoft-foundry-april-2026-o4-mini-global-training-gpt-4-1-963ce5db0d09?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Oracle Database at Azure: The Complete 2026 Technical Deep Dive Into Sub 200 Microsecond Multi…](https://blog.azinsider.net/oracle-database-at-azure-the-complete-2026-technical-deep-dive-into-sub-200-microsecond-multi-865d08d33335?source=user_profile_page---------3-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
