@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Compliance as Code for the Agentic Era: Inside Microsoft’s AI Trust Architecture.](https://blog.azinsider.net/compliance-as-code-for-the-agentic-era-inside-microsofts-ai-trust-architecture-d7a1a893ce18?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [From Zero to Agent Store: The Complete Technical Playbook for Microsoft 365 Copilot Partners in…](https://blog.azinsider.net/from-zero-to-agent-store-the-complete-technical-playbook-for-microsoft-365-copilot-partners-in-98c54c4dd020?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [How Veeam Built Planet-Scale Semantic Search on Azure Cosmos DB.](https://blog.azinsider.net/how-veeam-built-planet-scale-semantic-search-on-azure-cosmos-db-e44917db8b1d?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Reinforcement Fine-Tuning on Microsoft Foundry, April 2026: o4-mini Global Training, GPT-4.1](https://blog.azinsider.net/reinforcement-fine-tuning-on-microsoft-foundry-april-2026-o4-mini-global-training-gpt-4-1-963ce5db0d09?source=user_profile_page---------4-------------7f23df591f29----------------------)
-- [Oracle Database at Azure: The Complete 2026 Technical Deep Dive Into Sub 200 Microsecond Multi…](https://blog.azinsider.net/oracle-database-at-azure-the-complete-2026-technical-deep-dive-into-sub-200-microsecond-multi-865d08d33335?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Inside Copilot Studio’s Agentic Automation Stack: A Deep Dive into Computer Use and Agent Flows.](https://blog.azinsider.net/inside-copilot-studios-agentic-automation-stack-a-deep-dive-into-computer-use-and-agent-flows-c43f01d40e20?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Compliance as Code for the Agentic Era: Inside Microsoft’s AI Trust Architecture.](https://blog.azinsider.net/compliance-as-code-for-the-agentic-era-inside-microsofts-ai-trust-architecture-d7a1a893ce18?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Securing AI Is Securing Your Data: The Microsoft Purview Architecture That Makes M365 Copilot Safe…](https://blog.azinsider.net/securing-ai-is-securing-your-data-the-microsoft-purview-architecture-that-makes-m365-copilot-safe-80f9d6f1e1d4?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [From Zero to Agent Store: The Complete Technical Playbook for Microsoft 365 Copilot Partners in…](https://blog.azinsider.net/from-zero-to-agent-store-the-complete-technical-playbook-for-microsoft-365-copilot-partners-in-98c54c4dd020?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [How Veeam Built Planet-Scale Semantic Search on Azure Cosmos DB.](https://blog.azinsider.net/how-veeam-built-planet-scale-semantic-search-on-azure-cosmos-db-e44917db8b1d?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
