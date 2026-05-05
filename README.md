@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Inside Copilot Studio’s Agentic Automation Stack: A Deep Dive into Computer Use and Agent Flows.](https://blog.azinsider.net/inside-copilot-studios-agentic-automation-stack-a-deep-dive-into-computer-use-and-agent-flows-c43f01d40e20?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Compliance as Code for the Agentic Era: Inside Microsoft’s AI Trust Architecture.](https://blog.azinsider.net/compliance-as-code-for-the-agentic-era-inside-microsofts-ai-trust-architecture-d7a1a893ce18?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Securing AI Is Securing Your Data: The Microsoft Purview Architecture That Makes M365 Copilot Safe…](https://blog.azinsider.net/securing-ai-is-securing-your-data-the-microsoft-purview-architecture-that-makes-m365-copilot-safe-80f9d6f1e1d4?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [From Zero to Agent Store: The Complete Technical Playbook for Microsoft 365 Copilot Partners in…](https://blog.azinsider.net/from-zero-to-agent-store-the-complete-technical-playbook-for-microsoft-365-copilot-partners-in-98c54c4dd020?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [How Veeam Built Planet-Scale Semantic Search on Azure Cosmos DB.](https://blog.azinsider.net/how-veeam-built-planet-scale-semantic-search-on-azure-cosmos-db-e44917db8b1d?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Inside the Premier League Companion: How an Agentic AI Platform Was Built for 1.8](https://blog.azinsider.net/inside-the-premier-league-companion-how-an-agentic-ai-platform-was-built-for-1-8-3efde7814b83?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [From 45 Warehouses to 20: Inside the Architecture of an Agentic Supply Chain.](https://blog.azinsider.net/from-45-warehouses-to-20-inside-the-architecture-of-an-agentic-supply-chain-904787356f7f?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [The True Cost of AI on Azure: A FinOps Deep Dive into Tokens, PTUs, and the Gen AI Gateway.](https://blog.azinsider.net/the-true-cost-of-ai-on-azure-a-finops-deep-dive-into-tokens-ptus-and-the-gen-ai-gateway-505d90148768?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [The Public Sector AI Stack: A Guide to What Cities Are Actually Shipping.](https://blog.azinsider.net/the-public-sector-ai-stack-a-guide-to-what-cities-are-actually-shipping-a685859b883f?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [How BASF, EY, Lumen, and Pfizer Are Running 41,000+ Production AI Agents on Microsoft’s Stack (and…](https://blog.azinsider.net/how-basf-ey-lumen-and-pfizer-are-running-41-000-production-ai-agents-on-microsofts-stack-and-b654f391ce40?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
