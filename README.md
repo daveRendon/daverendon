@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Inside the Premier League Companion: How an Agentic AI Platform Was Built for 1.8](https://blog.azinsider.net/inside-the-premier-league-companion-how-an-agentic-ai-platform-was-built-for-1-8-3efde7814b83?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [From 45 Warehouses to 20: Inside the Architecture of an Agentic Supply Chain.](https://blog.azinsider.net/from-45-warehouses-to-20-inside-the-architecture-of-an-agentic-supply-chain-904787356f7f?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [The True Cost of AI on Azure: A FinOps Deep Dive into Tokens, PTUs, and the Gen AI Gateway.](https://blog.azinsider.net/the-true-cost-of-ai-on-azure-a-finops-deep-dive-into-tokens-ptus-and-the-gen-ai-gateway-505d90148768?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [The Public Sector AI Stack: A Guide to What Cities Are Actually Shipping.](https://blog.azinsider.net/the-public-sector-ai-stack-a-guide-to-what-cities-are-actually-shipping-a685859b883f?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [How BASF, EY, Lumen, and Pfizer Are Running 41,000+ Production AI Agents on Microsoft’s Stack (and…](https://blog.azinsider.net/how-basf-ey-lumen-and-pfizer-are-running-41-000-production-ai-agents-on-microsofts-stack-and-b654f391ce40?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [From Technical Debt to Frontier Firm: A Deep Technical Dive into Agentic App and Database…](https://blog.azinsider.net/from-technical-debt-to-frontier-firm-a-deep-technical-dive-into-agentic-app-and-database-78c34efe5d22?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Anatomy of the Surface Copilot+ PC Multimodal AI Stack: Phi Silica on the NPU, Click to Do, and…](https://blog.azinsider.net/anatomy-of-the-surface-copilot-pc-multimodal-ai-stack-phi-silica-on-the-npu-click-to-do-and-d81ab62bcb69?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [The New Windows Developer Stack: WSL, Sudo, MCP, Foundry Local, and the WinApp CLI Explained.](https://blog.azinsider.net/the-new-windows-developer-stack-wsl-sudo-mcp-foundry-local-and-the-winapp-cli-explained-d87437b312ba?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Azure Resource Manager MCP Server: The Day Your AI Agent Got the Keys to Your Cloud.](https://blog.azinsider.net/azure-resource-manager-mcp-server-the-day-your-ai-agent-got-the-keys-to-your-cloud-44e343c04165?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Azure Databases in the Era of AI: A Technical Deep Dive into Microsoft’s 2026 Data Platform.](https://blog.azinsider.net/azure-databases-in-the-era-of-ai-a-technical-deep-dive-into-microsofts-2026-data-platform-84dd20636ed4?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
