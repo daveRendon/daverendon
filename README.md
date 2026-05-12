@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [From Technical Debt to Frontier Firm: A Deep Technical Dive into Agentic App and Database…](https://blog.azinsider.net/from-technical-debt-to-frontier-firm-a-deep-technical-dive-into-agentic-app-and-database-78c34efe5d22?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Anatomy of the Surface Copilot+ PC Multimodal AI Stack: Phi Silica on the NPU, Click to Do, and…](https://blog.azinsider.net/anatomy-of-the-surface-copilot-pc-multimodal-ai-stack-phi-silica-on-the-npu-click-to-do-and-d81ab62bcb69?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [The New Windows Developer Stack: WSL, Sudo, MCP, Foundry Local, and the WinApp CLI Explained.](https://blog.azinsider.net/the-new-windows-developer-stack-wsl-sudo-mcp-foundry-local-and-the-winapp-cli-explained-d87437b312ba?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Azure Resource Manager MCP Server: The Day Your AI Agent Got the Keys to Your Cloud.](https://blog.azinsider.net/azure-resource-manager-mcp-server-the-day-your-ai-agent-got-the-keys-to-your-cloud-44e343c04165?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Azure Databases in the Era of AI: A Technical Deep Dive into Microsoft’s 2026 Data Platform.](https://blog.azinsider.net/azure-databases-in-the-era-of-ai-a-technical-deep-dive-into-microsofts-2026-data-platform-84dd20636ed4?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Microsoft’s Agentic Enterprise Stack Explained, Layer by Layer.](https://blog.azinsider.net/microsofts-agentic-enterprise-stack-explained-layer-by-layer-74bf523a4954?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Building Agents for Microsoft 365 Copilot: A Technical Architecture Guide for Pro Code Developers.](https://blog.azinsider.net/building-agents-for-microsoft-365-copilot-a-technical-architecture-guide-for-pro-code-developers-2b846787c0c3?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Microsoft Agent 365: The Control Plane That Will Govern 1.3 Billion AI Agents by 2028.](https://blog.azinsider.net/microsoft-agent-365-the-control-plane-that-will-govern-1-3-billion-ai-agents-by-2028-7c510fdf5694?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [From Technical Debt to Frontier Firm: A Deep Technical Dive into Agentic App and Database…](https://blog.azinsider.net/from-technical-debt-to-frontier-firm-a-deep-technical-dive-into-agentic-app-and-database-78c34efe5d22?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Anatomy of the Surface Copilot+ PC Multimodal AI Stack: Phi Silica on the NPU, Click to Do, and…](https://blog.azinsider.net/anatomy-of-the-surface-copilot-pc-multimodal-ai-stack-phi-silica-on-the-npu-click-to-do-and-d81ab62bcb69?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
