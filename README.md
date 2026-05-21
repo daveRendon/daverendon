@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Security Copilot Inside Microsoft 365 E5: A Technical Deep Dive Into the Agentic Security Platform](https://blog.azinsider.net/security-copilot-inside-microsoft-365-e5-a-technical-deep-dive-into-the-agentic-security-platform-d728f28b9822?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Microsoft Agent 365: Inside the Control Plane Built to Stop AI Agents From Wrecking Your Enterprise.](https://blog.azinsider.net/microsoft-agent-365-inside-the-control-plane-built-to-stop-ai-agents-from-wrecking-your-enterprise-f91b1f1e69f5?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Microsoft Purview Data Security Investigations: The AI-Powered Engine That Compresses Days of…](https://blog.azinsider.net/microsoft-purview-data-security-investigations-the-ai-powered-engine-that-compresses-days-of-046e61707d16?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Building Agents for Microsoft 365 Copilot: A Technical Architecture Guide for Pro Code Developers.](https://blog.azinsider.net/building-agents-for-microsoft-365-copilot-a-technical-architecture-guide-for-pro-code-developers-2b846787c0c3?source=user_profile_page---------4-------------7f23df591f29----------------------)
-- [Microsoft’s Agentic Enterprise Stack Explained, Layer by Layer.](https://blog.azinsider.net/microsofts-agentic-enterprise-stack-explained-layer-by-layer-74bf523a4954?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Edge for Business as a Secure Enterprise AI Browser: A Technical Deep Dive](https://blog.azinsider.net/edge-for-business-as-a-secure-enterprise-ai-browser-a-technical-deep-dive-61b3c158172c?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Inside the Agentic SOC: A Technical Deep Dive Into Security Copilot in Microsoft Defender](https://blog.azinsider.net/inside-the-agentic-soc-a-technical-deep-dive-into-security-copilot-in-microsoft-defender-24e3218f7c76?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [The Zero Trust Blueprint, Rewritten for AI: A Field Guide for Entra and Intune Admins.](https://blog.azinsider.net/the-zero-trust-blueprint-rewritten-for-ai-a-field-guide-for-entra-and-intune-admins-4d76e4bec395?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Inside the World’s Largest Cloud: A Deep Dive on Mark Russinovich’s Azure Infrastructure Summit…](https://blog.azinsider.net/inside-the-worlds-largest-cloud-a-deep-dive-on-mark-russinovich-s-azure-infrastructure-summit-ffddbfcf4b91?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Microsoft Build CLI: Turn Every Conference Session Into Working Code From Your Terminal](https://blog.azinsider.net/microsoft-build-cli-turn-every-conference-session-into-working-code-from-your-terminal-1541027ba6d6?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
