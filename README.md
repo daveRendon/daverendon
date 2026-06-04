@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Edge for Business as a Secure Enterprise AI Browser: A Technical Deep Dive](https://blog.azinsider.net/edge-for-business-as-a-secure-enterprise-ai-browser-a-technical-deep-dive-61b3c158172c?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Inside the Agentic SOC: A Technical Deep Dive Into Security Copilot in Microsoft Defender](https://blog.azinsider.net/inside-the-agentic-soc-a-technical-deep-dive-into-security-copilot-in-microsoft-defender-24e3218f7c76?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [The Zero Trust Blueprint, Rewritten for AI: A Field Guide for Entra and Intune Admins.](https://blog.azinsider.net/the-zero-trust-blueprint-rewritten-for-ai-a-field-guide-for-entra-and-intune-admins-4d76e4bec395?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Inside the World’s Largest Cloud: A Deep Dive on Mark Russinovich’s Azure Infrastructure Summit…](https://blog.azinsider.net/inside-the-worlds-largest-cloud-a-deep-dive-on-mark-russinovich-s-azure-infrastructure-summit-ffddbfcf4b91?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Microsoft Build CLI: Turn Every Conference Session Into Working Code From Your Terminal](https://blog.azinsider.net/microsoft-build-cli-turn-every-conference-session-into-working-code-from-your-terminal-1541027ba6d6?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Microsoft Just Rebuilt the Computer Around AI Agents: A Technical Deep Dive Into the Build 2026…](https://blog.azinsider.net/microsoft-just-rebuilt-the-computer-around-ai-agents-a-technical-deep-dive-into-the-build-2026-5ab15f6f1b0c?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [From Prototype to Production: Building and Operating a Microsoft Foundry Hosted Agent with GitOps…](https://blog.azinsider.net/from-prototype-to-production-building-and-operating-a-microsoft-foundry-hosted-agent-with-gitops-b2dd7b8b07c3?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [A Build-Time and Run-Time Architecture for AI Agents: SKILL-First Construction on Microsoft Agent…](https://blog.azinsider.net/a-build-time-and-run-time-architecture-for-ai-agents-skill-first-construction-on-microsoft-agent-d143bc375f44?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [How Agent Skills Actually Work: SKILL.md,](https://blog.azinsider.net/how-agent-skills-actually-work-skill-md-f3fb5a2d1d64?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Agents Are the New Attack Surface: A Practical Guide to Code to Runtime Cloud Defense](https://blog.azinsider.net/agents-are-the-new-attack-surface-a-practical-guide-to-code-to-runtime-cloud-defense-409f2b7284c7?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
