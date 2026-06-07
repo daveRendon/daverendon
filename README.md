@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Microsoft Just Rebuilt the Computer Around AI Agents: A Technical Deep Dive Into the Build 2026…](https://blog.azinsider.net/microsoft-just-rebuilt-the-computer-around-ai-agents-a-technical-deep-dive-into-the-build-2026-5ab15f6f1b0c?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [From Prototype to Production: Building and Operating a Microsoft Foundry Hosted Agent with GitOps…](https://blog.azinsider.net/from-prototype-to-production-building-and-operating-a-microsoft-foundry-hosted-agent-with-gitops-b2dd7b8b07c3?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [A Build-Time and Run-Time Architecture for AI Agents: SKILL-First Construction on Microsoft Agent…](https://blog.azinsider.net/a-build-time-and-run-time-architecture-for-ai-agents-skill-first-construction-on-microsoft-agent-d143bc375f44?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [How Agent Skills Actually Work: SKILL.md,](https://blog.azinsider.net/how-agent-skills-actually-work-skill-md-f3fb5a2d1d64?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Agents Are the New Attack Surface: A Practical Guide to Code to Runtime Cloud Defense](https://blog.azinsider.net/agents-are-the-new-attack-surface-a-practical-guide-to-code-to-runtime-cloud-defense-409f2b7284c7?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [From Prototype to Production: Building and Running AI Agents at Scale on Microsoft Foundry](https://blog.azinsider.net/from-prototype-to-production-building-and-running-ai-agents-at-scale-on-microsoft-foundry-e18c4f3724e9?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Evals First, Models Second: Building Cheaper, Smarter AI Agents With Microsoft Foundry](https://blog.azinsider.net/evals-first-models-second-building-cheaper-smarter-ai-agents-with-microsoft-foundry-54394c6bad5e?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Microsoft Just Rebuilt the Computer Around AI Agents: A Technical Deep Dive Into the Build 2026…](https://blog.azinsider.net/microsoft-just-rebuilt-the-computer-around-ai-agents-a-technical-deep-dive-into-the-build-2026-5ab15f6f1b0c?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [A deep technical dive into Azure’s AI datacenter stack: DPU offload with Azure Boost, MRC networking, confidential computing, and microLED…](https://blog.azinsider.net/inside-azures-ai-datacenter-stack-a-deep-technical-dive-from-dpu-offload-to-microled-optics-433a6063f1fa?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [A hands-on technical guide to task-based model routing, evaluation, and distillation on Microsoft Foundry, with the architecture and the…](https://blog.azinsider.net/stop-buying-cheaper-ai-models-start-building-cheaper-ai-systems-b57385d2baa1?source=user_profile_page---------3-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
