@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Foundry IQ Deep Dive: Grounding AI Agents With Agentic Retrieval on Azure AI Search](https://blog.azinsider.net/foundry-iq-deep-dive-grounding-ai-agents-with-agentic-retrieval-on-azure-ai-search-4b1c1b78ff3e?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Microsoft IQ, Explained: How to Build Context-Aware AI Agents That Actually Ship](https://blog.azinsider.net/microsoft-iq-explained-how-to-build-context-aware-ai-agents-that-actually-ship-05acb5059bc7?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [From Prototype to Production: Building and Running AI Agents at Scale on Microsoft Foundry](https://blog.azinsider.net/from-prototype-to-production-building-and-running-ai-agents-at-scale-on-microsoft-foundry-e18c4f3724e9?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Inside Azure’s AI Datacenter Stack: A Deep Technical Dive From DPU Offload to MicroLED Optics](https://blog.azinsider.net/inside-azures-ai-datacenter-stack-a-deep-technical-dive-from-dpu-offload-to-microled-optics-433a6063f1fa?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Evals First, Models Second: Building Cheaper, Smarter AI Agents With Microsoft Foundry](https://blog.azinsider.net/evals-first-models-second-building-cheaper-smarter-ai-agents-with-microsoft-foundry-54394c6bad5e?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Teaching AI Agents to Read: A Hands-On Guide to Azure Content Understanding and the Agent Framework](https://blog.azinsider.net/teaching-ai-agents-to-read-a-hands-on-guide-to-azure-content-understanding-and-the-agent-framework-5e9ae2a8857a?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Inside Microsoft Foundry Toolbox and Content Understanding: A Technical Deep Dive](https://blog.azinsider.net/inside-microsoft-foundry-toolbox-and-content-understanding-a-technical-deep-dive-678b888fa703?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [How Microsoft Foundry Runs Your Open Source Agents Without a Rewrite](https://blog.azinsider.net/how-microsoft-foundry-runs-your-open-source-agents-without-a-rewrite-764e62e7e1ae?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Agent Harnesses on Microsoft Foundry: A Deep Dive into Hosted Agents, Routines, and Autopilot…](https://blog.azinsider.net/agent-harnesses-on-microsoft-foundry-a-deep-dive-into-hosted-agents-routines-and-autopilot-64dbc0f244de?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Foundry IQ Deep Dive: Grounding AI Agents With Agentic Retrieval on Azure AI Search](https://blog.azinsider.net/foundry-iq-deep-dive-grounding-ai-agents-with-agentic-retrieval-on-azure-ai-search-4b1c1b78ff3e?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
