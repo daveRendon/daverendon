@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Teaching AI Agents to Read: A Hands-On Guide to Azure Content Understanding and the Agent Framework](https://blog.azinsider.net/teaching-ai-agents-to-read-a-hands-on-guide-to-azure-content-understanding-and-the-agent-framework-5e9ae2a8857a?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Inside Microsoft Foundry Toolbox and Content Understanding: A Technical Deep Dive](https://blog.azinsider.net/inside-microsoft-foundry-toolbox-and-content-understanding-a-technical-deep-dive-678b888fa703?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [How Microsoft Foundry Runs Your Open Source Agents Without a Rewrite](https://blog.azinsider.net/how-microsoft-foundry-runs-your-open-source-agents-without-a-rewrite-764e62e7e1ae?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Agent Harnesses on Microsoft Foundry: A Deep Dive into Hosted Agents, Routines, and Autopilot…](https://blog.azinsider.net/agent-harnesses-on-microsoft-foundry-a-deep-dive-into-hosted-agents-routines-and-autopilot-64dbc0f244de?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Foundry IQ Deep Dive: Grounding AI Agents With Agentic Retrieval on Azure AI Search](https://blog.azinsider.net/foundry-iq-deep-dive-grounding-ai-agents-with-agentic-retrieval-on-azure-ai-search-4b1c1b78ff3e?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Observe and Control AI Agents on Any Framework with Open Source Tools.](https://blog.azinsider.net/observe-and-control-ai-agents-on-any-framework-with-open-source-tools-47f3668aa159?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Build Agentic Apps in Minutes with Rayfin and Microsoft Fabric](https://blog.azinsider.net/build-agentic-apps-in-minutes-with-rayfin-and-microsoft-fabric-1956f9577f77?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Any Agent, Any Cloud: One Trace View for Your Whole Agent Fleet](https://blog.azinsider.net/any-agent-any-cloud-one-trace-view-for-your-whole-agent-fleet-03e28ec8a794?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Local AI on Windows: A Developer’s Guide to Running Models on CPU, GPU, and NPU](https://blog.azinsider.net/local-ai-on-windows-a-developers-guide-to-running-models-on-cpu-gpu-and-npu-8d05d011584c?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [From Workflows to Agentic Automation with Azure Logic Apps](https://blog.azinsider.net/from-workflows-to-agentic-automation-with-azure-logic-apps-f943a38a7e33?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
