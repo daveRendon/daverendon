@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Observe and Control AI Agents on Any Framework with Open Source Tools.](https://blog.azinsider.net/observe-and-control-ai-agents-on-any-framework-with-open-source-tools-47f3668aa159?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Build Agentic Apps in Minutes with Rayfin and Microsoft Fabric](https://blog.azinsider.net/build-agentic-apps-in-minutes-with-rayfin-and-microsoft-fabric-1956f9577f77?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Any Agent, Any Cloud: One Trace View for Your Whole Agent Fleet](https://blog.azinsider.net/any-agent-any-cloud-one-trace-view-for-your-whole-agent-fleet-03e28ec8a794?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Local AI on Windows: A Developer’s Guide to Running Models on CPU, GPU, and NPU](https://blog.azinsider.net/local-ai-on-windows-a-developers-guide-to-running-models-on-cpu-gpu-and-npu-8d05d011584c?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [From Workflows to Agentic Automation with Azure Logic Apps](https://blog.azinsider.net/from-workflows-to-agentic-automation-with-azure-logic-apps-f943a38a7e33?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [From CPU Trace to Verified Fix: AI-Assisted .NET Profiling in Visual Studio](https://blog.azinsider.net/from-cpu-trace-to-verified-fix-ai-assisted-net-profiling-in-visual-studio-db95006e5cfb?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Stop Paying Frontier Prices for Production Agents: A Fine-Tuning Playbook on Microsoft Foundry](https://blog.azinsider.net/stop-paying-frontier-prices-for-production-agents-a-fine-tuning-playbook-on-microsoft-foundry-04f52af0d380?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Native Windows AI Apps, Built From the Terminal: A Practical Guide to Copilot CLI and Windows ML](https://blog.azinsider.net/native-windows-ai-apps-built-from-the-terminal-a-practical-guide-to-copilot-cli-and-windows-ml-a442a6c28afc?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [WSL Containers: How Windows Finally Runs Linux Containers Without Docker Desktop](https://blog.azinsider.net/wsl-containers-how-windows-finally-runs-linux-containers-without-docker-desktop-d827e8cd595b?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Inside MAI-Thinking-1: How Microsoft Built a Reasoning Model From Scratch](https://blog.azinsider.net/inside-mai-thinking-1-how-microsoft-built-a-reasoning-model-from-scratch-fe3481f2ed88?source=user_profile_page---------3-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
