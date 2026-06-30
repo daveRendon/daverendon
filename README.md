@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [From CPU Trace to Verified Fix: AI-Assisted .NET Profiling in Visual Studio](https://blog.azinsider.net/from-cpu-trace-to-verified-fix-ai-assisted-net-profiling-in-visual-studio-db95006e5cfb?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Stop Paying Frontier Prices for Production Agents: A Fine-Tuning Playbook on Microsoft Foundry](https://blog.azinsider.net/stop-paying-frontier-prices-for-production-agents-a-fine-tuning-playbook-on-microsoft-foundry-04f52af0d380?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Native Windows AI Apps, Built From the Terminal: A Practical Guide to Copilot CLI and Windows ML](https://blog.azinsider.net/native-windows-ai-apps-built-from-the-terminal-a-practical-guide-to-copilot-cli-and-windows-ml-a442a6c28afc?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [WSL Containers: How Windows Finally Runs Linux Containers Without Docker Desktop](https://blog.azinsider.net/wsl-containers-how-windows-finally-runs-linux-containers-without-docker-desktop-d827e8cd595b?source=user_profile_page---------4-------------7f23df591f29----------------------)
-- [Inside MAI-Thinking-1: How Microsoft Built a Reasoning Model From Scratch](https://blog.azinsider.net/inside-mai-thinking-1-how-microsoft-built-a-reasoning-model-from-scratch-fe3481f2ed88?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Agentic Coding with GitHub Copilot: Plan, Delegate, Review, Ship](https://blog.azinsider.net/agentic-coding-with-github-copilot-plan-delegate-review-ship-32ddd67f4e41?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Inside Microsoft Execution Containers: How Windows Sandboxes AI Agents](https://blog.azinsider.net/inside-microsoft-execution-containers-how-windows-sandboxes-ai-agents-f45e9a10d398?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [From One Container Per Table to 75% Fewer RUs: An AI-Guided Cosmos DB Redesign](https://blog.azinsider.net/from-one-container-per-table-to-75-fewer-rus-an-ai-guided-cosmos-db-redesign-bd682fbbc052?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [One OS Everywhere: A Hands-On Deep Dive into Azure Linux 4.0 and Azure Container Linux](https://blog.azinsider.net/one-os-everywhere-a-hands-on-deep-dive-into-azure-linux-4-0-and-azure-container-linux-d38b97d56cc0?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
