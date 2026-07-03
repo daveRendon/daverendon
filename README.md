@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Agentic Coding with GitHub Copilot: Plan, Delegate, Review, Ship](https://blog.azinsider.net/agentic-coding-with-github-copilot-plan-delegate-review-ship-32ddd67f4e41?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Inside Microsoft Execution Containers: How Windows Sandboxes AI Agents](https://blog.azinsider.net/inside-microsoft-execution-containers-how-windows-sandboxes-ai-agents-f45e9a10d398?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [From One Container Per Table to 75% Fewer RUs: An AI-Guided Cosmos DB Redesign](https://blog.azinsider.net/from-one-container-per-table-to-75-fewer-rus-an-ai-guided-cosmos-db-redesign-bd682fbbc052?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [One OS Everywhere: A Hands-On Deep Dive into Azure Linux 4.0 and Azure Container Linux](https://blog.azinsider.net/one-os-everywhere-a-hands-on-deep-dive-into-azure-linux-4-0-and-azure-container-linux-d38b97d56cc0?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Coding and Personal Agents on Ollama: Local Models, Cloud Models, One Interface](https://blog.azinsider.net/coding-and-personal-agents-on-ollama-local-models-cloud-models-one-interface-09c9ec2117ae?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [How Windows 11 Became a First-Class Dev Machine](https://blog.azinsider.net/how-windows-11-became-a-first-class-dev-machine-f1f9b38342b8?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Orchestrating a Fleet of Coding Agents in VS Code: Patterns That Actually Work](https://blog.azinsider.net/orchestrating-a-fleet-of-coding-agents-in-vs-code-patterns-that-actually-work-47fccf1551c9?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Beyond Lines of Code: How Microsoft Measures Developer Productivity with EngThrive](https://blog.azinsider.net/beyond-lines-of-code-how-microsoft-measures-developer-productivity-with-engthrive-17f847906f64?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
