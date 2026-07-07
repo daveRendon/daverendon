@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Coding and Personal Agents on Ollama: Local Models, Cloud Models, One Interface](https://blog.azinsider.net/coding-and-personal-agents-on-ollama-local-models-cloud-models-one-interface-09c9ec2117ae?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [How Windows 11 Became a First-Class Dev Machine](https://blog.azinsider.net/how-windows-11-became-a-first-class-dev-machine-f1f9b38342b8?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Orchestrating a Fleet of Coding Agents in VS Code: Patterns That Actually Work](https://blog.azinsider.net/orchestrating-a-fleet-of-coding-agents-in-vs-code-patterns-that-actually-work-47fccf1551c9?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Beyond Lines of Code: How Microsoft Measures Developer Productivity with EngThrive](https://blog.azinsider.net/beyond-lines-of-code-how-microsoft-measures-developer-productivity-with-engthrive-17f847906f64?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [The Runtime Is the Hard Part: Running AI Agents in Production on Azure Container Apps](https://blog.azinsider.net/the-runtime-is-the-hard-part-running-ai-agents-in-production-on-azure-container-apps-22315ff802f4?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [One Runtime for Many Agents: Running LangGraph, .NET,](https://blog.azinsider.net/one-runtime-for-many-agents-running-langgraph-net-06c79d689de7?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Stop Shipping the Same Outage Twice: Production-Aware Code Review with Copilot, Elastic, and Azure…](https://blog.azinsider.net/stop-shipping-the-same-outage-twice-production-aware-code-review-with-copilot-elastic-and-azure-515826b44467?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Toolboxes in Foundry: One Endpoint for Every Tool Your AI Agents Use](https://blog.azinsider.net/toolboxes-in-foundry-one-endpoint-for-every-tool-your-ai-agents-use-bf6da4a5642f?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Microsoft Discovery Deep Dive: Running Autonomous Science With the Discovery Engine and GraphRAG](https://blog.azinsider.net/microsoft-discovery-deep-dive-running-autonomous-science-with-the-discovery-engine-and-graphrag-fc793dbbfc9f?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
