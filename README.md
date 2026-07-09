@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [The Runtime Is the Hard Part: Running AI Agents in Production on Azure Container Apps](https://blog.azinsider.net/the-runtime-is-the-hard-part-running-ai-agents-in-production-on-azure-container-apps-22315ff802f4?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [One Runtime for Many Agents: Running LangGraph, .NET,](https://blog.azinsider.net/one-runtime-for-many-agents-running-langgraph-net-06c79d689de7?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Stop Shipping the Same Outage Twice: Production-Aware Code Review with Copilot, Elastic, and Azure…](https://blog.azinsider.net/stop-shipping-the-same-outage-twice-production-aware-code-review-with-copilot-elastic-and-azure-515826b44467?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Toolboxes in Foundry: One Endpoint for Every Tool Your AI Agents Use](https://blog.azinsider.net/toolboxes-in-foundry-one-endpoint-for-every-tool-your-ai-agents-use-bf6da4a5642f?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Microsoft Discovery Deep Dive: Running Autonomous Science With the Discovery Engine and GraphRAG](https://blog.azinsider.net/microsoft-discovery-deep-dive-running-autonomous-science-with-the-discovery-engine-and-graphrag-fc793dbbfc9f?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Distributed Systems to AI Platforms: A Field Guide to the Agent Era Stack](https://blog.azinsider.net/distributed-systems-to-ai-platforms-a-field-guide-to-the-agent-era-stack-e452e9f7394e?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [One Agent, Every Channel: Microsoft Foundry and Twilio, End to End](https://blog.azinsider.net/one-agent-every-channel-microsoft-foundry-and-twilio-end-to-end-e32dc2c350d4?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Inside NVIDIA OpenShell: Zero-Trust Runtime Security for Autonomous AI Agents](https://blog.azinsider.net/inside-nvidia-openshell-zero-trust-runtime-security-for-autonomous-ai-agents-a93afed026af?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Building Scheduled AI Agents That Run on Your Laptop’s NPU](https://blog.azinsider.net/building-scheduled-ai-agents-that-run-on-your-laptops-npu-a15837bac900?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [The Runtime Is the Hard Part: Running AI Agents in Production on Azure Container Apps](https://blog.azinsider.net/the-runtime-is-the-hard-part-running-ai-agents-in-production-on-azure-container-apps-22315ff802f4?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
