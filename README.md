@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Distributed Systems to AI Platforms: A Field Guide to the Agent Era Stack](https://blog.azinsider.net/distributed-systems-to-ai-platforms-a-field-guide-to-the-agent-era-stack-e452e9f7394e?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [One Agent, Every Channel: Microsoft Foundry and Twilio, End to End](https://blog.azinsider.net/one-agent-every-channel-microsoft-foundry-and-twilio-end-to-end-e32dc2c350d4?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Inside NVIDIA OpenShell: Zero-Trust Runtime Security for Autonomous AI Agents](https://blog.azinsider.net/inside-nvidia-openshell-zero-trust-runtime-security-for-autonomous-ai-agents-a93afed026af?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Building Scheduled AI Agents That Run on Your Laptop’s NPU](https://blog.azinsider.net/building-scheduled-ai-agents-that-run-on-your-laptops-npu-a15837bac900?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [The Runtime Is the Hard Part: Running AI Agents in Production on Azure Container Apps](https://blog.azinsider.net/the-runtime-is-the-hard-part-running-ai-agents-in-production-on-azure-container-apps-22315ff802f4?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Local AI on Windows: How AMD Lemonade and AI Playbooks Cut the Path From Idea to First Commit](https://blog.azinsider.net/local-ai-on-windows-how-amd-lemonade-and-ai-playbooks-cut-the-path-from-idea-to-first-commit-fb173eea40d3?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Your Laptop Is Now an Agent Runtime](https://blog.azinsider.net/your-laptop-is-now-an-agent-runtime-51edd2888322?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [WSL Containers, SPGO, and the New Windows Developer Stack](https://blog.azinsider.net/wsl-containers-spgo-and-the-new-windows-developer-stack-271dda807b1e?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [The Verifier Is the Ceiling: Agentic Coding with Claude Code and Cowork in Microsoft Foundry.](https://blog.azinsider.net/the-verifier-is-the-ceiling-agentic-coding-with-claude-code-and-cowork-in-microsoft-foundry-2a3d2a8ab3e3?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Supervising AI Coding Agents: A Seven-Layer Architecture](https://blog.azinsider.net/supervising-ai-coding-agents-a-seven-layer-architecture-3f46be511453?source=user_profile_page---------3-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
