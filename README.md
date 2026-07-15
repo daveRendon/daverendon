@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Local AI on Windows: How AMD Lemonade and AI Playbooks Cut the Path From Idea to First Commit](https://blog.azinsider.net/local-ai-on-windows-how-amd-lemonade-and-ai-playbooks-cut-the-path-from-idea-to-first-commit-fb173eea40d3?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Your Laptop Is Now an Agent Runtime](https://blog.azinsider.net/your-laptop-is-now-an-agent-runtime-51edd2888322?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [WSL Containers, SPGO, and the New Windows Developer Stack](https://blog.azinsider.net/wsl-containers-spgo-and-the-new-windows-developer-stack-271dda807b1e?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [The Verifier Is the Ceiling: Agentic Coding with Claude Code and Cowork in Microsoft Foundry.](https://blog.azinsider.net/the-verifier-is-the-ceiling-agentic-coding-with-claude-code-and-cowork-in-microsoft-foundry-2a3d2a8ab3e3?source=user_profile_page---------4-------------7f23df591f29----------------------)
-- [Supervising AI Coding Agents: A Seven-Layer Architecture](https://blog.azinsider.net/supervising-ai-coding-agents-a-seven-layer-architecture-3f46be511453?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Profile and Optimize Agentic AI on Windows](https://blog.azinsider.net/profile-and-optimize-agentic-ai-on-windows-7c1461760d99?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [How to Build a Real-Time Voice Agent in Microsoft Foundry](https://blog.azinsider.net/how-to-build-a-real-time-voice-agent-in-microsoft-foundry-751b518abb50?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Build Real-Time Voice Agents with LiveKit and Azure](https://blog.azinsider.net/build-real-time-voice-agents-with-livekit-and-azure-b998251e7d53?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [From Code to Production: How Hosted Agents Work in Microsoft Foundry](https://blog.azinsider.net/from-code-to-production-how-hosted-agents-work-in-microsoft-foundry-6638566bfbe5?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [How Microsoft AI Builds Coding Models Optimized for GitHub Copilot](https://blog.azinsider.net/how-microsoft-ai-builds-coding-models-optimized-for-github-copilot-a4a9782c9278?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
