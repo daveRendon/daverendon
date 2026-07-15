@@ -35,7 +35,7 @@ $iconCode = $r.weather[0].icon  # e.g., "01d", "10n"
 $icon = $emojis[$iconCode]
 
 # Same logic as before
-$psTime = (Get-Date).year - (Get-Date "7/1/2013").year
+$psTime = (Get-Date).year - (Get-Date "7/1/2012").year
 $todayDay = (Get-Date).DayOfWeek
 
 # Load and replace template placeholders
