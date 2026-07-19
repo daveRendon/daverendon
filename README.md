@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Profile and Optimize Agentic AI on Windows](https://blog.azinsider.net/profile-and-optimize-agentic-ai-on-windows-7c1461760d99?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [How to Build a Real-Time Voice Agent in Microsoft Foundry](https://blog.azinsider.net/how-to-build-a-real-time-voice-agent-in-microsoft-foundry-751b518abb50?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Build Real-Time Voice Agents with LiveKit and Azure](https://blog.azinsider.net/build-real-time-voice-agents-with-livekit-and-azure-b998251e7d53?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [From Code to Production: How Hosted Agents Work in Microsoft Foundry](https://blog.azinsider.net/from-code-to-production-how-hosted-agents-work-in-microsoft-foundry-6638566bfbe5?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [How Microsoft AI Builds Coding Models Optimized for GitHub Copilot](https://blog.azinsider.net/how-microsoft-ai-builds-coding-models-optimized-for-github-copilot-a4a9782c9278?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [One Stack, Two Tiers: Hybrid AI Routing on AMD ROCm From Ryzen AI to Azure](https://blog.azinsider.net/one-stack-two-tiers-hybrid-ai-routing-on-amd-rocm-from-ryzen-ai-to-azure-504548630d95?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [From Playground to PTU: Taking Open Models to Production on Microsoft Foundry.](https://blog.azinsider.net/from-playground-to-ptu-taking-open-models-to-production-on-microsoft-foundry-602cab805a99?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Orchestrating Agents with NVIDIA Nemotron Models on Microsoft Foundry](https://blog.azinsider.net/orchestrating-agents-with-nvidia-nemotron-models-on-microsoft-foundry-0a9fc0d6968a?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [A Technical Guide to the Teams SDK, the Teams CLI, and Agent 365](https://blog.azinsider.net/a-technical-guide-to-the-teams-sdk-the-teams-cli-and-agent-365-d3f5ae9e6c51?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [The Repository That Reviews Itself](https://blog.azinsider.net/the-repository-that-reviews-itself-c30ce9366add?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
