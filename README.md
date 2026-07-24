@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [One Stack, Two Tiers: Hybrid AI Routing on AMD ROCm From Ryzen AI to Azure](https://blog.azinsider.net/one-stack-two-tiers-hybrid-ai-routing-on-amd-rocm-from-ryzen-ai-to-azure-504548630d95?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [From Playground to PTU: Taking Open Models to Production on Microsoft Foundry.](https://blog.azinsider.net/from-playground-to-ptu-taking-open-models-to-production-on-microsoft-foundry-602cab805a99?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Orchestrating Agents with NVIDIA Nemotron Models on Microsoft Foundry](https://blog.azinsider.net/orchestrating-agents-with-nvidia-nemotron-models-on-microsoft-foundry-0a9fc0d6968a?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [A Technical Guide to the Teams SDK, the Teams CLI, and Agent 365](https://blog.azinsider.net/a-technical-guide-to-the-teams-sdk-the-teams-cli-and-agent-365-d3f5ae9e6c51?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [The Repository That Reviews Itself](https://blog.azinsider.net/the-repository-that-reviews-itself-c30ce9366add?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Where Should Your AI Agent Actually Run?](https://blog.azinsider.net/where-should-your-ai-agent-actually-run-a1e5eaf1228a?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Inside OM1: The Robot Runtime That Turns Sensor Data Into Sentences](https://blog.azinsider.net/inside-om1-the-robot-runtime-that-turns-sensor-data-into-sentences-1741d1dad0d1?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [How to Let AI Write Most of Your Code Without Wrecking Your Codebase](https://blog.azinsider.net/how-to-let-ai-write-most-of-your-code-without-wrecking-your-codebase-e81dd298a85d?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [How Xoople Scales Python for AI Using Anyscale on Azure](https://blog.azinsider.net/how-xoople-scales-python-for-ai-using-anyscale-on-azure-b9eaa1123170?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [If AI Can Clone Your App in a Day, What Is Left to Defend?](https://blog.azinsider.net/if-ai-can-clone-your-app-in-a-day-what-is-left-to-defend-3c2a880057bb?source=user_profile_page---------4-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
