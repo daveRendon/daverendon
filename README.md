@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Where Should Your AI Agent Actually Run?](https://blog.azinsider.net/where-should-your-ai-agent-actually-run-a1e5eaf1228a?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Inside OM1: The Robot Runtime That Turns Sensor Data Into Sentences](https://blog.azinsider.net/inside-om1-the-robot-runtime-that-turns-sensor-data-into-sentences-1741d1dad0d1?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [How to Let AI Write Most of Your Code Without Wrecking Your Codebase](https://blog.azinsider.net/how-to-let-ai-write-most-of-your-code-without-wrecking-your-codebase-e81dd298a85d?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [How Xoople Scales Python for AI Using Anyscale on Azure](https://blog.azinsider.net/how-xoople-scales-python-for-ai-using-anyscale-on-azure-b9eaa1123170?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [If AI Can Clone Your App in a Day, What Is Left to Defend?](https://blog.azinsider.net/if-ai-can-clone-your-app-in-a-day-what-is-left-to-defend-3c2a880057bb?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Rayfin: Define a Full App Backend in TypeScript and Ship It to Microsoft Fabric](https://blog.azinsider.net/rayfin-define-a-full-app-backend-in-typescript-and-ship-it-to-microsoft-fabric-d840395b744b?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Azure DevOps Meets GitHub: The Path to an AI-Powered SDLC](https://blog.azinsider.net/azure-devops-meets-github-the-path-to-an-ai-powered-sdlc-b3d6c893bc55?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Memory-Bound to Compute-Bound: Engineering Custom LLMs from Fine-Tuning to Inference](https://blog.azinsider.net/memory-bound-to-compute-bound-engineering-custom-llms-from-fine-tuning-to-inference-64a56299f349?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Running Claude Inside VS Code: The Agent Host and the Copilot Integration, Explained](https://blog.azinsider.net/running-claude-inside-vs-code-the-agent-host-and-the-copilot-integration-explained-c701dc69baf3?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
