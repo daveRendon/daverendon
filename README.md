@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Rayfin: Define a Full App Backend in TypeScript and Ship It to Microsoft Fabric](https://blog.azinsider.net/rayfin-define-a-full-app-backend-in-typescript-and-ship-it-to-microsoft-fabric-d840395b744b?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Azure DevOps Meets GitHub: The Path to an AI-Powered SDLC](https://blog.azinsider.net/azure-devops-meets-github-the-path-to-an-ai-powered-sdlc-b3d6c893bc55?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Memory-Bound to Compute-Bound: Engineering Custom LLMs from Fine-Tuning to Inference](https://blog.azinsider.net/memory-bound-to-compute-bound-engineering-custom-llms-from-fine-tuning-to-inference-64a56299f349?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Running Claude Inside VS Code: The Agent Host and the Copilot Integration, Explained](https://blog.azinsider.net/running-claude-inside-vs-code-the-agent-host-and-the-copilot-integration-explained-c701dc69baf3?source=user_profile_page---------4-------------7f23df591f29----------------------)
-- [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Wiring Oracle and Microsoft Fabric Together with MCP and GitHub Copilot](https://blog.azinsider.net/wiring-oracle-and-microsoft-fabric-together-with-mcp-and-github-copilot-5b658b83812a?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Microsoft’s Four IQs: How Foundry IQ, Fabric IQ, Work IQ, and Web IQ Ground Enterprise Agents](https://blog.azinsider.net/microsofts-four-iqs-how-foundry-iq-fabric-iq-work-iq-and-web-iq-ground-enterprise-agents-bc9ed1107256?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Create Multimodal AI Agents With Persistent Memory](https://blog.azinsider.net/create-multimodal-ai-agents-with-persistent-memory-4bd6862d1e45?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Teach AI Agents to Manage Context With Elastic Agent Builder](https://blog.azinsider.net/teach-ai-agents-to-manage-context-with-elastic-agent-builder-20e9896dc770?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [A technical breakdown of how PepsiCo built an agent-ready data foundation on Azure with vector search, governed text to SQL, and…](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
