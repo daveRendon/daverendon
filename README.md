@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Wiring Oracle and Microsoft Fabric Together with MCP and GitHub Copilot](https://blog.azinsider.net/wiring-oracle-and-microsoft-fabric-together-with-mcp-and-github-copilot-5b658b83812a?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Microsoft’s Four IQs: How Foundry IQ, Fabric IQ, Work IQ, and Web IQ Ground Enterprise Agents](https://blog.azinsider.net/microsofts-four-iqs-how-foundry-iq-fabric-iq-work-iq-and-web-iq-ground-enterprise-agents-bc9ed1107256?source=user_profile_page---------3-------------7f23df591f29----------------------)
-- [Create Multimodal AI Agents With Persistent Memory](https://blog.azinsider.net/create-multimodal-ai-agents-with-persistent-memory-4bd6862d1e45?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Teach AI Agents to Manage Context With Elastic Agent Builder](https://blog.azinsider.net/teach-ai-agents-to-manage-context-with-elastic-agent-builder-20e9896dc770?source=user_profile_page---------4-------------7f23df591f29----------------------)
-- [A technical breakdown of how PepsiCo built an agent-ready data foundation on Azure with vector search, governed text to SQL, and…](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Building Intelligent C# Apps: The .NET AI Stack in Five Layers](https://blog.azinsider.net/building-intelligent-c-apps-the-net-ai-stack-in-five-layers-24819d89f034?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [When Agents Read Your Telemetry, Observability Breaks](https://blog.azinsider.net/when-agents-read-your-telemetry-observability-breaks-07913556f8fa?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Windows 365 Is Now a Developer Platform: A Technical Breakdown](https://blog.azinsider.net/windows-365-is-now-a-developer-platform-a-technical-breakdown-5c5bca9ac356?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [Agentic Analytics with Power BI and Microsoft Fabric: The AI-First Way to Build Enterprise BI](https://blog.azinsider.net/agentic-analytics-with-power-bi-and-microsoft-fabric-the-ai-first-way-to-build-enterprise-bi-d151232a2e55?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
