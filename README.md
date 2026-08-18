@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Building Intelligent C# Apps: The .NET AI Stack in Five Layers](https://blog.azinsider.net/building-intelligent-c-apps-the-net-ai-stack-in-five-layers-24819d89f034?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [When Agents Read Your Telemetry, Observability Breaks](https://blog.azinsider.net/when-agents-read-your-telemetry-observability-breaks-07913556f8fa?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Windows 365 Is Now a Developer Platform: A Technical Breakdown](https://blog.azinsider.net/windows-365-is-now-a-developer-platform-a-technical-breakdown-5c5bca9ac356?source=user_profile_page---------4-------------7f23df591f29----------------------)
-- [Agentic Analytics with Power BI and Microsoft Fabric: The AI-First Way to Build Enterprise BI](https://blog.azinsider.net/agentic-analytics-with-power-bi-and-microsoft-fabric-the-ai-first-way-to-build-enterprise-bi-d151232a2e55?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Rayfin on Microsoft Fabric: Turning a Vibe Coded Prototype Into a Governed App](https://blog.azinsider.net/rayfin-on-microsoft-fabric-turning-a-vibe-coded-prototype-into-a-governed-app-11909ebecb19?source=user_profile_page---------4-------------7f23df591f29----------------------)
 - [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Inside Microsoft Foundry Toolbox and Content Understanding: A Technical Deep Dive](https://blog.azinsider.net/inside-microsoft-foundry-toolbox-and-content-understanding-a-technical-deep-dive-678b888fa703?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [Agent Harnesses on Microsoft Foundry: A Deep Dive into Hosted Agents, Routines, and Autopilot…](https://blog.azinsider.net/agent-harnesses-on-microsoft-foundry-a-deep-dive-into-hosted-agents-routines-and-autopilot-64dbc0f244de?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [Microsoft IQ, Explained: How to Build Context-Aware AI Agents That Actually Ship](https://blog.azinsider.net/microsoft-iq-explained-how-to-build-context-aware-ai-agents-that-actually-ship-05acb5059bc7?source=user_profile_page---------3-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
