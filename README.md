@@ -30,7 +30,7 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Rayfin on Microsoft Fabric: Turning a Vibe Coded Prototype Into a Governed App](https://blog.azinsider.net/rayfin-on-microsoft-fabric-turning-a-vibe-coded-prototype-into-a-governed-app-11909ebecb19?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [What 52 Technical Deep Dives Reveal About the AI Developer Stack](https://blog.azinsider.net/ai-developer-stack-52-technical-deep-dives-2026-48235f26e0ca?source=user_profile_page---------4-------------7f23df591f29----------------------)
 - [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
 - [Inside Microsoft Foundry Toolbox and Content Understanding: A Technical Deep Dive](https://blog.azinsider.net/inside-microsoft-foundry-toolbox-and-content-understanding-a-technical-deep-dive-678b888fa703?source=user_profile_page---------1-------------7f23df591f29----------------------)
 - [Agent Harnesses on Microsoft Foundry: A Deep Dive into Hosted Agents, Routines, and Autopilot…](https://blog.azinsider.net/agent-harnesses-on-microsoft-foundry-a-deep-dive-into-hosted-agents-routines-and-autopilot-64dbc0f244de?source=user_profile_page---------2-------------7f23df591f29----------------------)
