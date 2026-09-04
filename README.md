@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [What 52 Technical Deep Dives Reveal About the AI Developer Stack](https://blog.azinsider.net/ai-developer-stack-52-technical-deep-dives-2026-48235f26e0ca?source=user_profile_page---------4-------------7f23df591f29----------------------)
-- [Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Inside Microsoft Foundry Toolbox and Content Understanding: A Technical Deep Dive](https://blog.azinsider.net/inside-microsoft-foundry-toolbox-and-content-understanding-a-technical-deep-dive-678b888fa703?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [Agent Harnesses on Microsoft Foundry: A Deep Dive into Hosted Agents, Routines, and Autopilot…](https://blog.azinsider.net/agent-harnesses-on-microsoft-foundry-a-deep-dive-into-hosted-agents-routines-and-autopilot-64dbc0f244de?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [Microsoft IQ, Explained: How to Build Context-Aware AI Agents That Actually Ship](https://blog.azinsider.net/microsoft-iq-explained-how-to-build-context-aware-ai-agents-that-actually-ship-05acb5059bc7?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [Why Your AI Agents Keep Guessing, and How Microsoft Fabric IQ Fixes It](https://blog.azinsider.net/microsoft-fabric-iq-context-for-ai-agents-f83f84f47ffb?source=user_profile_page---------4-------------7f23df591f29----------------------)
+- [A technical breakdown of how PepsiCo built an agent-ready data foundation on Azure with vector search, governed text to SQL, and…](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
+- [Deep dive into Microsoft Foundry Toolbox and Content Understanding: use one MCP endpoint to end AI agent tool sprawl and turn documents…](https://blog.azinsider.net/inside-microsoft-foundry-toolbox-and-content-understanding-a-technical-deep-dive-678b888fa703?source=user_profile_page---------1-------------7f23df591f29----------------------)
+- [A developer’s deep dive into Microsoft Foundry agent harnesses, hosted agents, routines, and Autopilot agents, and how to build and ship AI…](https://blog.azinsider.net/agent-harnesses-on-microsoft-foundry-a-deep-dive-into-hosted-agents-routines-and-autopilot-64dbc0f244de?source=user_profile_page---------2-------------7f23df591f29----------------------)
+- [A deep dive into Work IQ, Fabric IQ, Foundry IQ, and Web IQ, the context layer behind Microsoft’s enterprise agent stack.](https://blog.azinsider.net/microsoft-iq-explained-how-to-build-context-aware-ai-agents-that-actually-ship-05acb5059bc7?source=user_profile_page---------3-------------7f23df591f29----------------------)
 <!-- BLOG_POSTS_END -->
            
  
