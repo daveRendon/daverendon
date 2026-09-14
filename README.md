@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Why Your AI Agents Keep Guessing, and How Microsoft Fabric IQ Fixes It](https://blog.azinsider.net/microsoft-fabric-iq-context-for-ai-agents-f83f84f47ffb?source=user_profile_page---------4-------------7f23df591f29----------------------)
-- [A technical breakdown of how PepsiCo built an agent-ready data foundation on Azure with vector search, governed text to SQL, and…](https://blog.azinsider.net/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=user_profile_page---------0-------------7f23df591f29----------------------)
-- [Deep dive into Microsoft Foundry Toolbox and Content Understanding: use one MCP endpoint to end AI agent tool sprawl and turn documents…](https://blog.azinsider.net/inside-microsoft-foundry-toolbox-and-content-understanding-a-technical-deep-dive-678b888fa703?source=user_profile_page---------1-------------7f23df591f29----------------------)
-- [A developer’s deep dive into Microsoft Foundry agent harnesses, hosted agents, routines, and Autopilot agents, and how to build and ship AI…](https://blog.azinsider.net/agent-harnesses-on-microsoft-foundry-a-deep-dive-into-hosted-agents-routines-and-autopilot-64dbc0f244de?source=user_profile_page---------2-------------7f23df591f29----------------------)
-- [A deep dive into Work IQ, Fabric IQ, Foundry IQ, and Web IQ, the context layer behind Microsoft’s enterprise agent stack.](https://blog.azinsider.net/microsoft-iq-explained-how-to-build-context-aware-ai-agents-that-actually-ship-05acb5059bc7?source=user_profile_page---------3-------------7f23df591f29----------------------)
+- [On-Device AI in .NET MAUI Without Model Lock-In](https://blog.azinsider.net/on-device-ai-dotnet-maui-without-model-lock-in-f962f23edf6d?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [Why Your AI Agent Works in Testing but Breaks in Production](https://blog.azinsider.net/ai-agent-observability-opentelemetry-new-relic-50a0e83b065a?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [Stop Juggling .NET SDKs: Meet dotnetup, the rustup for .NET](https://blog.azinsider.net/dotnetup-dotnet-sdk-version-manager-8b17e44be9cb?source=user_profile_page---------9-------------7f23df591f29------------------------)
+- [How to Govern a Microsoft Fabric Data Estate Without Slowing Everyone Down](https://blog.azinsider.net/govern-microsoft-fabric-data-estate-a184c1fd5458?source=user_profile_page---------13-------------7f23df591f29------------------------)
+- [Your AI Agent Can Think but Not Click: Giving It a Real Windows Desktop with Windows 365 for Agents](https://blog.azinsider.net/windows-365-for-agents-cloud-pcs-for-ai-agents-c528e6825883?source=user_profile_page---------21-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
