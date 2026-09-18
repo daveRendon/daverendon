@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [On-Device AI in .NET MAUI Without Model Lock-In](https://blog.azinsider.net/on-device-ai-dotnet-maui-without-model-lock-in-f962f23edf6d?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [Why Your AI Agent Works in Testing but Breaks in Production](https://blog.azinsider.net/ai-agent-observability-opentelemetry-new-relic-50a0e83b065a?source=user_profile_page---------6-------------7f23df591f29------------------------)
-- [Stop Juggling .NET SDKs: Meet dotnetup, the rustup for .NET](https://blog.azinsider.net/dotnetup-dotnet-sdk-version-manager-8b17e44be9cb?source=user_profile_page---------9-------------7f23df591f29------------------------)
-- [How to Govern a Microsoft Fabric Data Estate Without Slowing Everyone Down](https://blog.azinsider.net/govern-microsoft-fabric-data-estate-a184c1fd5458?source=user_profile_page---------13-------------7f23df591f29------------------------)
-- [Your AI Agent Can Think but Not Click: Giving It a Real Windows Desktop with Windows 365 for Agents](https://blog.azinsider.net/windows-365-for-agents-cloud-pcs-for-ai-agents-c528e6825883?source=user_profile_page---------21-------------7f23df591f29------------------------)
+- [Aspire: One File to Run, Debug, and Deploy Your Distributed App](https://blog.azinsider.net/aspire-run-debug-deploy-distributed-app-9ac95b664f9b?source=user_profile_page---------4-------------7f23df591f29------------------------)
+- [Your Database Is the First Thing AI Agents Will Break](https://blog.azinsider.net/azure-architecture-ai-agents-data-scale-compute-eeaab8bffa36?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [Beyond REST: How .NET Apps Talk to Bluetooth, NFC, and USB Hardware](https://blog.azinsider.net/dotnet-maui-hardware-ble-nfc-usb-fec1311bee44?source=user_profile_page---------7-------------7f23df591f29------------------------)
+- [The GitHub Copilot App Turns Issue to Merge Into One Screen](https://blog.azinsider.net/github-copilot-app-issue-to-merge-7d810d670f42?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [The Agentic Developer Stack, Layer by Layer](https://blog.azinsider.net/agentic-developer-stack-copilot-vscode-typescript-590c1fbe1f11?source=user_profile_page---------8-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
