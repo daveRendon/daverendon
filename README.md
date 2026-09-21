@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Aspire: One File to Run, Debug, and Deploy Your Distributed App](https://blog.azinsider.net/aspire-run-debug-deploy-distributed-app-9ac95b664f9b?source=user_profile_page---------4-------------7f23df591f29------------------------)
-- [Your Database Is the First Thing AI Agents Will Break](https://blog.azinsider.net/azure-architecture-ai-agents-data-scale-compute-eeaab8bffa36?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [Beyond REST: How .NET Apps Talk to Bluetooth, NFC, and USB Hardware](https://blog.azinsider.net/dotnet-maui-hardware-ble-nfc-usb-fec1311bee44?source=user_profile_page---------7-------------7f23df591f29------------------------)
-- [The GitHub Copilot App Turns Issue to Merge Into One Screen](https://blog.azinsider.net/github-copilot-app-issue-to-merge-7d810d670f42?source=user_profile_page---------6-------------7f23df591f29------------------------)
-- [The Agentic Developer Stack, Layer by Layer](https://blog.azinsider.net/agentic-developer-stack-copilot-vscode-typescript-590c1fbe1f11?source=user_profile_page---------8-------------7f23df591f29------------------------)
+- [Four Ways AI Coding Agents Fail (and the Guardrails That Catch Them)](https://blog.azinsider.net/ai-coding-agent-failure-modes-guardrails-f36559c9baa5?source=user_profile_page---------4-------------7f23df591f29------------------------)
+- [Visual Studio Agents That Debug and Profile Your Code, Not Just Write It](https://blog.azinsider.net/visual-studio-copilot-debugger-profiler-agents-1523d7dfa6ba?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [GitHub Copilot Modernization: How Agents Fix Legacy Apps at Scale](https://blog.azinsider.net/github-copilot-modernization-architecture-deep-dive-4e133656b548?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [Turn a Power App Into a Copilot Agent With One Setting](https://blog.azinsider.net/power-apps-mcp-microsoft-365-copilot-dataverse-7b3f159c8c08?source=user_profile_page---------8-------------7f23df591f29------------------------)
+- [The AI Agent Stack: Where Value Actually Accrues on Azure](https://blog.azinsider.net/ai-agent-stack-value-accrues-azure-12b0db5c4738?source=user_profile_page---------7-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
