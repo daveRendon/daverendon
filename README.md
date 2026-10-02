@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Four Ways AI Coding Agents Fail (and the Guardrails That Catch Them)](https://blog.azinsider.net/ai-coding-agent-failure-modes-guardrails-f36559c9baa5?source=user_profile_page---------4-------------7f23df591f29------------------------)
-- [Visual Studio Agents That Debug and Profile Your Code, Not Just Write It](https://blog.azinsider.net/visual-studio-copilot-debugger-profiler-agents-1523d7dfa6ba?source=user_profile_page---------6-------------7f23df591f29------------------------)
-- [GitHub Copilot Modernization: How Agents Fix Legacy Apps at Scale](https://blog.azinsider.net/github-copilot-modernization-architecture-deep-dive-4e133656b548?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [Turn a Power App Into a Copilot Agent With One Setting](https://blog.azinsider.net/power-apps-mcp-microsoft-365-copilot-dataverse-7b3f159c8c08?source=user_profile_page---------8-------------7f23df591f29------------------------)
-- [The AI Agent Stack: Where Value Actually Accrues on Azure](https://blog.azinsider.net/ai-agent-stack-value-accrues-azure-12b0db5c4738?source=user_profile_page---------7-------------7f23df591f29------------------------)
+- [Azure’s VM Lifecycle Policy: Retirement Is the Last Deadline, Not the First](https://blog.azinsider.net/azure-vm-lifecycle-policy-dv3-retirement-deadlines-9251c87cfbe2?source=user_profile_page---------4-------------7f23df591f29------------------------)
+- [How Jev Picks an Answer Without Writing One](https://blog.azinsider.net/jev-explained-calibrated-decision-models-a89d88c845ab?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [Two or Three Azure Availability Zones? The Capacity and Quorum Math Behind the Decision](https://blog.azinsider.net/azure-availability-zones-two-or-three-design-guide-c3f6e3375d31?source=user_profile_page---------7-------------7f23df591f29------------------------)
+- [Where Should Your AI Agent’s Code Run? Inside Azure Container Apps Sandboxes](https://blog.azinsider.net/azure-container-apps-sandboxes-ai-agents-deep-dive-35d33ade661f?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [Microsoft Foundry’s New Agent Stack, Explained in 12 Diagrams](https://blog.azinsider.net/microsoft-foundry-agent-stack-explained-12-diagrams-57ed80a854be?source=user_profile_page---------10-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
