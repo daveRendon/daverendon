@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Azure’s VM Lifecycle Policy: Retirement Is the Last Deadline, Not the First](https://blog.azinsider.net/azure-vm-lifecycle-policy-dv3-retirement-deadlines-9251c87cfbe2?source=user_profile_page---------4-------------7f23df591f29------------------------)
-- [How Jev Picks an Answer Without Writing One](https://blog.azinsider.net/jev-explained-calibrated-decision-models-a89d88c845ab?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [Two or Three Azure Availability Zones? The Capacity and Quorum Math Behind the Decision](https://blog.azinsider.net/azure-availability-zones-two-or-three-design-guide-c3f6e3375d31?source=user_profile_page---------7-------------7f23df591f29------------------------)
-- [Where Should Your AI Agent’s Code Run? Inside Azure Container Apps Sandboxes](https://blog.azinsider.net/azure-container-apps-sandboxes-ai-agents-deep-dive-35d33ade661f?source=user_profile_page---------6-------------7f23df591f29------------------------)
-- [Microsoft Foundry’s New Agent Stack, Explained in 12 Diagrams](https://blog.azinsider.net/microsoft-foundry-agent-stack-explained-12-diagrams-57ed80a854be?source=user_profile_page---------10-------------7f23df591f29------------------------)
+- [36 Tools in the Terminal, 27 When Hosted: Taking an AI Agent to Production](https://blog.azinsider.net/microsoft-agent-framework-agent-production-foundry-hosted-agents-b77b20da98a3?source=user_profile_page---------4-------------7f23df591f29------------------------)
+- [An AI Agent Workflow That Survives kill -9: Inside Microsoft Agent Framework’s Latest Update](https://blog.azinsider.net/microsoft-agent-framework-kill-9-crash-recovery-ag-ui-memory-codeact-d4812e5a7bd2?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [Azure’s VM Lifecycle Policy: Retirement Is the Last Deadline, Not the First](https://blog.azinsider.net/azure-vm-lifecycle-policy-dv3-retirement-deadlines-9251c87cfbe2?source=user_profile_page---------7-------------7f23df591f29------------------------)
+- [Managed vs. Self-Hosted PostgreSQL on Azure: Who Runs Failover, Backups, and Patching](https://blog.azinsider.net/managed-vs-self-hosted-postgresql-azure-640aee22ee27?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [Two or Three Azure Availability Zones? The Capacity and Quorum Math Behind the Decision](https://blog.azinsider.net/azure-availability-zones-two-or-three-design-guide-c3f6e3375d31?source=user_profile_page---------10-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
