@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [36 Tools in the Terminal, 27 When Hosted: Taking an AI Agent to Production](https://blog.azinsider.net/microsoft-agent-framework-agent-production-foundry-hosted-agents-b77b20da98a3?source=user_profile_page---------4-------------7f23df591f29------------------------)
-- [An AI Agent Workflow That Survives kill -9: Inside Microsoft Agent Framework’s Latest Update](https://blog.azinsider.net/microsoft-agent-framework-kill-9-crash-recovery-ag-ui-memory-codeact-d4812e5a7bd2?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [Azure’s VM Lifecycle Policy: Retirement Is the Last Deadline, Not the First](https://blog.azinsider.net/azure-vm-lifecycle-policy-dv3-retirement-deadlines-9251c87cfbe2?source=user_profile_page---------7-------------7f23df591f29------------------------)
-- [Managed vs. Self-Hosted PostgreSQL on Azure: Who Runs Failover, Backups, and Patching](https://blog.azinsider.net/managed-vs-self-hosted-postgresql-azure-640aee22ee27?source=user_profile_page---------6-------------7f23df591f29------------------------)
-- [Two or Three Azure Availability Zones? The Capacity and Quorum Math Behind the Decision](https://blog.azinsider.net/azure-availability-zones-two-or-three-design-guide-c3f6e3375d31?source=user_profile_page---------10-------------7f23df591f29------------------------)
+- [GitHub Copilot Computer Use: What It Sees and When It Asks](https://blog.azinsider.net/github-copilot-computer-use-architecture-security-guide-e3363bb00942?source=user_profile_page---------4-------------7f23df591f29------------------------)
+- [Azure Cosmos DB Shell Is Now in the Azure Portal. Run These Four Commands First](https://blog.azinsider.net/azure-cosmos-db-shell-azure-portal-guide-2075f1f238b3?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [GitHub Copilot Dynamic Workflows: Put Your Agents on Rails](https://blog.azinsider.net/github-copilot-dynamic-workflows-deep-dive-76faed593c54?source=user_profile_page---------7-------------7f23df591f29------------------------)
+- [Prompt Tokens Aren’t ROI: How to Measure a Copilot Studio Agent](https://blog.azinsider.net/copilot-studio-roi-metrics-deflection-api-cost-avoidance-34bb883a9997?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [ARM Templates vs Bicep in 2026: I Revisited My 2021 Verdict](https://blog.azinsider.net/arm-templates-vs-bicep-2026-revisited-0ace665208de?source=user_profile_page---------9-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
