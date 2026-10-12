@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [GitHub Copilot Computer Use: What It Sees and When It Asks](https://blog.azinsider.net/github-copilot-computer-use-architecture-security-guide-e3363bb00942?source=user_profile_page---------4-------------7f23df591f29------------------------)
-- [Azure Cosmos DB Shell Is Now in the Azure Portal. Run These Four Commands First](https://blog.azinsider.net/azure-cosmos-db-shell-azure-portal-guide-2075f1f238b3?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [GitHub Copilot Dynamic Workflows: Put Your Agents on Rails](https://blog.azinsider.net/github-copilot-dynamic-workflows-deep-dive-76faed593c54?source=user_profile_page---------7-------------7f23df591f29------------------------)
-- [Prompt Tokens Aren’t ROI: How to Measure a Copilot Studio Agent](https://blog.azinsider.net/copilot-studio-roi-metrics-deflection-api-cost-avoidance-34bb883a9997?source=user_profile_page---------6-------------7f23df591f29------------------------)
-- [ARM Templates vs Bicep in 2026: I Revisited My 2021 Verdict](https://blog.azinsider.net/arm-templates-vs-bicep-2026-revisited-0ace665208de?source=user_profile_page---------9-------------7f23df591f29------------------------)
+- [Azure Site Recovery for Azure Local Is GA: How It Works and What It Won’t Protect](https://blog.azinsider.net/azure-site-recovery-azure-local-ga-architecture-limits-211afb4ebbb5?source=user_profile_page---------4-------------7f23df591f29------------------------)
+- [Two Model Router Modes Optimize for Cost. Only One Keeps Quality Within 2%.](https://blog.azinsider.net/microsoft-foundry-model-router-balanced-vs-cost-mode-dd109cb5d1de?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [Elasticsearch to Azure Cosmos DB: What Translates, What Doesn’t, and What It Costs](https://blog.azinsider.net/migrate-elasticsearch-to-azure-cosmos-db-full-text-search-c99146f36e26?source=user_profile_page---------7-------------7f23df591f29------------------------)
+- [Azure Cosmos DB Global Secondary Indexes: Give Background Jobs Their Own Lane](https://blog.azinsider.net/azure-cosmos-db-global-secondary-indexes-ai-agents-genspark-47b7fc6a6976?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [Azure Cosmos DB Shell Is Now in the Azure Portal. Run These Four Commands First](https://blog.azinsider.net/azure-cosmos-db-shell-azure-portal-guide-2075f1f238b3?source=user_profile_page---------9-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
