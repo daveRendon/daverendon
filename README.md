@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Azure Site Recovery for Azure Local Is GA: How It Works and What It Won’t Protect](https://blog.azinsider.net/azure-site-recovery-azure-local-ga-architecture-limits-211afb4ebbb5?source=user_profile_page---------4-------------7f23df591f29------------------------)
-- [Two Model Router Modes Optimize for Cost. Only One Keeps Quality Within 2%.](https://blog.azinsider.net/microsoft-foundry-model-router-balanced-vs-cost-mode-dd109cb5d1de?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [Elasticsearch to Azure Cosmos DB: What Translates, What Doesn’t, and What It Costs](https://blog.azinsider.net/migrate-elasticsearch-to-azure-cosmos-db-full-text-search-c99146f36e26?source=user_profile_page---------7-------------7f23df591f29------------------------)
-- [Azure Cosmos DB Global Secondary Indexes: Give Background Jobs Their Own Lane](https://blog.azinsider.net/azure-cosmos-db-global-secondary-indexes-ai-agents-genspark-47b7fc6a6976?source=user_profile_page---------6-------------7f23df591f29------------------------)
-- [Azure Cosmos DB Shell Is Now in the Azure Portal. Run These Four Commands First](https://blog.azinsider.net/azure-cosmos-db-shell-azure-portal-guide-2075f1f238b3?source=user_profile_page---------9-------------7f23df591f29------------------------)
+- [How a 9B Model Gained 14.6 Points on SWE-bench Without Rebuilding Its Agent](https://blog.azinsider.net/agent-lightning-v1-harnessed-agentic-rl-6c27dff7d844?source=user_profile_page---------4-------------7f23df591f29------------------------)
+- [Insights in Microsoft Foundry: Finding the Agent Failures That Don’t Throw Exceptions](https://blog.azinsider.net/insights-in-microsoft-foundry-agent-traces-recurring-failures-208a8c093190?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [Verify Before You Fix: Azure SRE Agent’s New Canvas in GitHub Copilot](https://blog.azinsider.net/azure-sre-agent-canvas-github-copilot-verify-incidents-a678ad51e32b?source=user_profile_page---------7-------------7f23df591f29------------------------)
+- [Threat Modeling Azure MCP Server Before an AI Agent Touches Production](https://blog.azinsider.net/azure-mcp-server-security-threat-model-ed8bd9486164?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [How to Stop an AI Agent From Accessing the Wrong Account](https://blog.azinsider.net/ai-agent-security-assert-acs-account-access-6ba7d20a0692?source=user_profile_page---------8-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
