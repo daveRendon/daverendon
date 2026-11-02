@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [How a 9B Model Gained 14.6 Points on SWE-bench Without Rebuilding Its Agent](https://blog.azinsider.net/agent-lightning-v1-harnessed-agentic-rl-6c27dff7d844?source=user_profile_page---------4-------------7f23df591f29------------------------)
-- [Insights in Microsoft Foundry: Finding the Agent Failures That Don’t Throw Exceptions](https://blog.azinsider.net/insights-in-microsoft-foundry-agent-traces-recurring-failures-208a8c093190?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [Verify Before You Fix: Azure SRE Agent’s New Canvas in GitHub Copilot](https://blog.azinsider.net/azure-sre-agent-canvas-github-copilot-verify-incidents-a678ad51e32b?source=user_profile_page---------7-------------7f23df591f29------------------------)
-- [Threat Modeling Azure MCP Server Before an AI Agent Touches Production](https://blog.azinsider.net/azure-mcp-server-security-threat-model-ed8bd9486164?source=user_profile_page---------6-------------7f23df591f29------------------------)
-- [How to Stop an AI Agent From Accessing the Wrong Account](https://blog.azinsider.net/ai-agent-security-assert-acs-account-access-6ba7d20a0692?source=user_profile_page---------8-------------7f23df591f29------------------------)
+- [AI Agents in Production: 51 Technical Deep Dives (October 2026)](https://blog.azinsider.net/ai-agents-production-51-technical-deep-dives-october-2026-bf2e36862531?source=user_profile_page---------4-------------7f23df591f29------------------------)
+- [Your Coding Agent Saw 100 of 312 Matches. HVE Core Makes It Show Its Evidence First](https://blog.azinsider.net/hve-core-github-copilot-research-before-code-14f07d745712?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [Stop Setting Up the Same MCP Server in Every Copilot Tool](https://blog.azinsider.net/github-copilot-connectors-verified-mcp-servers-856e538c8ea2?source=user_profile_page---------8-------------7f23df591f29------------------------)
+- [Code Scanning Alerts Piling Up? Fix Them Inside the GitHub Copilot App](https://blog.azinsider.net/fix-code-scanning-alerts-github-copilot-app-security-extension-3702b7af03b3?source=user_profile_page---------7-------------7f23df591f29------------------------)
+- [Your First Prompt Decides Which LLM Copilot Uses](https://blog.azinsider.net/github-copilot-auto-model-router-explained-5634972f4235?source=user_profile_page---------6-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
