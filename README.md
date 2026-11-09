@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [AI Agents in Production: 51 Technical Deep Dives (October 2026)](https://blog.azinsider.net/ai-agents-production-51-technical-deep-dives-october-2026-bf2e36862531?source=user_profile_page---------4-------------7f23df591f29------------------------)
-- [Your Coding Agent Saw 100 of 312 Matches. HVE Core Makes It Show Its Evidence First](https://blog.azinsider.net/hve-core-github-copilot-research-before-code-14f07d745712?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [Stop Setting Up the Same MCP Server in Every Copilot Tool](https://blog.azinsider.net/github-copilot-connectors-verified-mcp-servers-856e538c8ea2?source=user_profile_page---------8-------------7f23df591f29------------------------)
-- [Code Scanning Alerts Piling Up? Fix Them Inside the GitHub Copilot App](https://blog.azinsider.net/fix-code-scanning-alerts-github-copilot-app-security-extension-3702b7af03b3?source=user_profile_page---------7-------------7f23df591f29------------------------)
-- [Your First Prompt Decides Which LLM Copilot Uses](https://blog.azinsider.net/github-copilot-auto-model-router-explained-5634972f4235?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [Stop Rendering AI Video Drafts on Your Most Expensive Model](https://blog.azinsider.net/microsoft-foundry-video-generation-kling-ltx-minimax-cost-158bcbdb26db?source=user_profile_page---------4-------------7f23df591f29------------------------)
+- [When Thousands of AI Agents Push to One Repo, Coordination Becomes the Bottleneck](https://blog.azinsider.net/github-rubicon-git-storage-ai-agents-560ca91b6747?source=user_profile_page---------5-------------7f23df591f29------------------------)
+- [Your Code Can’t Leave the Machine. Now Your Coding Agent Doesn’t Have To.](https://blog.azinsider.net/run-qwen3-8-27b-locally-github-copilot-foundry-local-90a2c90dd77e?source=user_profile_page---------6-------------7f23df591f29------------------------)
+- [Your AI Agent’s Code Is in Git. Its Deployment Isn’t.](https://blog.azinsider.net/deploy-ai-agents-microsoft-foundry-azd-azure-yaml-9a6f8a05d397?source=user_profile_page---------7-------------7f23df591f29------------------------)
+- [Your AI Agent Is Answering With Outdated Facts. Ground It in the Live Web on Azure](https://blog.azinsider.net/microsoft-web-iq-azure-live-web-grounding-ai-agents-6a24d700b673?source=user_profile_page---------8-------------7f23df591f29------------------------)
 <!-- BLOG_POSTS_END -->
            
  
