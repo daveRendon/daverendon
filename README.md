@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Stop Rendering AI Video Drafts on Your Most Expensive Model](https://blog.azinsider.net/microsoft-foundry-video-generation-kling-ltx-minimax-cost-158bcbdb26db?source=user_profile_page---------4-------------7f23df591f29------------------------)
-- [When Thousands of AI Agents Push to One Repo, Coordination Becomes the Bottleneck](https://blog.azinsider.net/github-rubicon-git-storage-ai-agents-560ca91b6747?source=user_profile_page---------5-------------7f23df591f29------------------------)
-- [Your Code Can’t Leave the Machine. Now Your Coding Agent Doesn’t Have To.](https://blog.azinsider.net/run-qwen3-8-27b-locally-github-copilot-foundry-local-90a2c90dd77e?source=user_profile_page---------6-------------7f23df591f29------------------------)
-- [Your AI Agent’s Code Is in Git. Its Deployment Isn’t.](https://blog.azinsider.net/deploy-ai-agents-microsoft-foundry-azd-azure-yaml-9a6f8a05d397?source=user_profile_page---------7-------------7f23df591f29------------------------)
-- [Your AI Agent Is Answering With Outdated Facts. Ground It in the Live Web on Azure](https://blog.azinsider.net/microsoft-web-iq-azure-live-web-grounding-ai-agents-6a24d700b673?source=user_profile_page---------8-------------7f23df591f29------------------------)
+- [Your AI Agent Is Waiting for Approval in a Tab You Can’t See](https://blog.azinsider.net/intelligent-terminal-0-3-ai-agent-sidebar-03fb530b9149?source=user_profile_page---------4-------------7f23df591f29-------------------------)
+- [Your AI Agent Can Reach SharePoint. It Still Doesn’t Know SharePoint.](https://blog.azinsider.net/sharepoint-tools-work-iq-mcp-ai-agents-d5b67b7872a4?source=user_profile_page---------6-------------7f23df591f29-------------------------)
+- [Stop Configuring the Same MCP Server in Every Copilot Client](https://blog.azinsider.net/github-copilot-connectors-mcp-setup-1e1c6db0685e?source=user_profile_page---------8-------------7f23df591f29-------------------------)
+- [Every AKS Node You Can Patch in Place Is a Node That Can Drift](https://blog.azinsider.net/aks-node-drift-azure-container-linux-immutable-os-90df033e23ac?source=user_profile_page---------10-------------7f23df591f29-------------------------)
+- [Your IIS Server Knows Why It Failed. Your AI Agent Can’t See It.](https://blog.azinsider.net/azure-sre-agent-iis-read-only-root-cause-5750a8e1316c?source=user_profile_page---------12-------------7f23df591f29-------------------------)
 <!-- BLOG_POSTS_END -->
            
  
