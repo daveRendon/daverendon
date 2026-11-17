@@ -30,11 +30,11 @@
 ## 📝 Latest [posts](https://blog.azinsider.net)
 
 <!-- BLOG_POSTS_START -->
-- [Your AI Agent Is Waiting for Approval in a Tab You Can’t See](https://blog.azinsider.net/intelligent-terminal-0-3-ai-agent-sidebar-03fb530b9149?source=user_profile_page---------4-------------7f23df591f29-------------------------)
-- [Your AI Agent Can Reach SharePoint. It Still Doesn’t Know SharePoint.](https://blog.azinsider.net/sharepoint-tools-work-iq-mcp-ai-agents-d5b67b7872a4?source=user_profile_page---------6-------------7f23df591f29-------------------------)
-- [Stop Configuring the Same MCP Server in Every Copilot Client](https://blog.azinsider.net/github-copilot-connectors-mcp-setup-1e1c6db0685e?source=user_profile_page---------8-------------7f23df591f29-------------------------)
-- [Every AKS Node You Can Patch in Place Is a Node That Can Drift](https://blog.azinsider.net/aks-node-drift-azure-container-linux-immutable-os-90df033e23ac?source=user_profile_page---------10-------------7f23df591f29-------------------------)
-- [Your IIS Server Knows Why It Failed. Your AI Agent Can’t See It.](https://blog.azinsider.net/azure-sre-agent-iis-read-only-root-cause-5750a8e1316c?source=user_profile_page---------12-------------7f23df591f29-------------------------)
+- [Your AI Agent Passed the Pilot. Its Cost Model Didn’t.](https://blog.azinsider.net/ai-agent-cost-optimization-microsoft-foundry-finop-4f9854a6ba81?source=user_profile_page---------4-------------7f23df591f29-------------------------)
+- [Your AI Agent Works. The Infrastructure Around It Is a Second Job.](https://blog.azinsider.net/microsoft-foundry-hosted-agents-migration-deep-dive-bacab5a60793?source=user_profile_page---------5-------------7f23df591f29-------------------------)
+- [Your Team Agrees on the Fix in Teams, Then Retypes It Into GitHub](https://blog.azinsider.net/github-app-microsoft-teams-copilot-thread-to-pull-request-606a8ca2150a?source=user_profile_page---------6-------------7f23df591f29-------------------------)
+- [Your AI Agent Is Waiting for Approval in a Tab You Can’t See](https://blog.azinsider.net/intelligent-terminal-0-3-ai-agent-sidebar-03fb530b9149?source=user_profile_page---------7-------------7f23df591f29-------------------------)
+- [Your AI Agent Can Reach SharePoint. It Still Doesn’t Know SharePoint.](https://blog.azinsider.net/sharepoint-tools-work-iq-mcp-ai-agents-d5b67b7872a4?source=user_profile_page---------9-------------7f23df591f29-------------------------)
 <!-- BLOG_POSTS_END -->
            
  
